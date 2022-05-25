@@ -1,0 +1,500 @@
+jogador;genero;data_nascimento;jogo;pais;num_vitorias;num_derrotas;total_partidas
+jogador 1;Masculino;1990-03-09;Dama;Chile;14.0;0.0;14.0
+Jogador 2;Feminino;1986-01-05;Jogo da velha;Chile;39.0;20.0;59.0
+Jogador 3;Masculino;1964-04-10;Jogo da velha;Brasil;26.0;3.0;29.0
+Jogador 4;Masculino;1979-09-28;Jogo da velha;Argentina;9.0;72.0;81.0
+Jogador 5;Masculino;1978-03-09;Dama;Uruguai;1.0;54.0;55.0
+Jogador 6;Masculino;1977-04-11;Xadrez;Brasil;88.0;0.0;88.0
+Jogador 7;Masculino;1986-11-11;Xadrez;Argentina;53.0;24.0;77.0
+Jogador 8;Feminino;1996-03-18;Jogo da velha;Brasil;35.0;27.0;62.0
+Jogador 9;Masculino;1969-01-14;Dama;Paraguai;27.0;18.0;45.0
+Jogador 10;Masculino;2004-06-05;Xadrez;Chile;4.0;1.0;5.0
+Jogador 11;Masculino;1975-09-25;Xadrez;Brasil;18.0;48.0;66.0
+Jogador 12;Feminino;1992-05-07;Xadrez;Uruguai;22.0;2.0;24.0
+Jogador 13;Masculino;1996-06-19;Xadrez;Chile;13.0;4.0;17.0
+Jogador 14;Feminino;1980-08-10;Dama;Argentina;22.0;52.0;74.0
+Jogador 15;Feminino;1955-10-18;Dama;Chile;38.0;48.0;86.0
+Jogador 16;Feminino;1999-01-11;Xadrez;Chile;86.0;13.0;99.0
+Jogador 17;Masculino;1984-01-02;Xadrez;Brasil;41.0;11.0;52.0
+Jogador 18;Feminino;1981-07-02;Jogo da velha;Chile;53.0;20.0;73.0
+Jogador 19;Feminino;2004-11-08;Xadrez;Chile;4.0;77.0;81.0
+Jogador 20;Masculino;1954-06-30;Jogo da velha;Argentina;28.0;12.0;40.0
+Jogador 21;Feminino;1954-05-09;Xadrez;Brasil;10.0;82.0;92.0
+Jogador 22;Feminino;1955-06-16;Xadrez;Uruguai;40.0;31.0;71.0
+Jogador 23;Feminino;1997-12-30;Xadrez;Uruguai;11.0;18.0;29.0
+Jogador 24;Masculino;1988-11-30;Xadrez;Paraguai;5.0;12.0;17.0
+Jogador 25;Feminino;1970-12-28;Jogo da velha;Paraguai;8.0;58.0;66.0
+Jogador 26;Feminino;1963-02-15;Jogo da velha;Uruguai;4.0;6.0;10.0
+Jogador 27;Feminino;1994-07-31;Jogo da velha;Chile;84.0;11.0;95.0
+Jogador 28;Masculino;1962-12-15;Xadrez;Paraguai;10.0;32.0;42.0
+Jogador 29;Masculino;1984-11-22;Dama;Brasil;9.0;22.0;31.0
+Jogador 30;Feminino;2003-03-17;Xadrez;Paraguai;10.0;46.0;56.0
+Jogador 31;Masculino;1959-01-17;Dama;Paraguai;38.0;6.0;44.0
+Jogador 32;Masculino;1951-03-24;Jogo da velha;Uruguai;2.0;47.0;49.0
+Jogador 33;Feminino;1953-07-14;Xadrez;Chile;46.0;36.0;82.0
+Jogador 34;Feminino;1956-12-09;Xadrez;Argentina;16.0;4.0;20.0
+Jogador 35;Masculino;1951-09-12;Xadrez;Uruguai;33.0;3.0;36.0
+Jogador 36;Masculino;1973-05-12;Jogo da velha;Brasil;48.0;31.0;79.0
+Jogador 37;Feminino;1989-07-11;Dama;Paraguai;36.0;18.0;54.0
+Jogador 38;Masculino;1966-06-11;Dama;Brasil;1.0;42.0;43.0
+Jogador 39;Masculino;1955-07-03;Jogo da velha;Chile;23.0;4.0;27.0
+Jogador 40;Masculino;1990-06-02;Jogo da velha;Chile;8.0;23.0;31.0
+Jogador 41;Masculino;1953-07-17;Dama;Paraguai;8.0;17.0;25.0
+Jogador 42;Feminino;1998-06-18;Dama;Paraguai;1.0;14.0;15.0
+Jogador 43;Masculino;1951-07-14;Dama;Argentina;31.0;7.0;38.0
+Jogador 44;Masculino;1982-04-25;Jogo da velha;Argentina;16.0;44.0;60.0
+Jogador 45;Feminino;1992-06-22;Xadrez;Paraguai;23.0;35.0;58.0
+Jogador 46;Feminino;2005-12-02;Dama;Uruguai;2.0;14.0;16.0
+Jogador 47;Masculino;1978-01-31;Dama;Uruguai;17.0;68.0;85.0
+Jogador 48;Feminino;2005-12-30;Dama;Argentina;46.0;4.0;50.0
+Jogador 49;Feminino;1982-01-08;Dama;Brasil;4.0;28.0;32.0
+Jogador 50;Feminino;1995-05-07;Xadrez;Paraguai;41.0;11.0;52.0
+Jogador 51;Masculino;1959-11-15;Xadrez;Uruguai;74.0;13.0;87.0
+Jogador 52;Feminino;1957-08-20;Dama;Paraguai;18.0;64.0;82.0
+Jogador 53;Masculino;1964-07-28;Jogo da velha;Argentina;67.0;28.0;95.0
+Jogador 54;Feminino;1962-10-14;Dama;Paraguai;38.0;31.0;69.0
+Jogador 55;Feminino;1977-06-20;Dama;Brasil;34.0;29.0;63.0
+Jogador 56;Feminino;1959-01-27;Dama;Paraguai;51.0;29.0;80.0
+Jogador 57;Masculino;2000-07-31;Jogo da velha;Paraguai;35.0;9.0;44.0
+Jogador 58;Feminino;1987-01-08;Dama;Brasil;2.0;8.0;10.0
+Jogador 59;Feminino;1990-11-25;Dama;Chile;9.0;20.0;29.0
+Jogador 60;Feminino;1959-11-26;Dama;Uruguai;38.0;44.0;82.0
+Jogador 61;Masculino;1996-02-29;Xadrez;Brasil;32.0;12.0;44.0
+Jogador 62;Feminino;1985-12-20;Jogo da velha;Chile;9.0;26.0;35.0
+Jogador 63;Masculino;2002-06-23;Dama;Uruguai;25.0;51.0;76.0
+Jogador 64;Masculino;1978-04-03;Jogo da velha;Paraguai;2.0;6.0;8.0
+Jogador 65;Feminino;1966-07-11;Jogo da velha;Paraguai;8.0;39.0;47.0
+Jogador 66;Feminino;1991-01-30;Dama;Brasil;34.0;6.0;40.0
+Jogador 67;Feminino;1984-07-29;Dama;Paraguai;11.0;33.0;44.0
+Jogador 68;Masculino;1996-03-30;Jogo da velha;Chile;34.0;31.0;65.0
+Jogador 69;Masculino;2003-03-15;Dama;Chile;52.0;20.0;72.0
+Jogador 70;Masculino;1980-09-07;Jogo da velha;Chile;29.0;60.0;89.0
+Jogador 71;Masculino;1988-06-25;Dama;Paraguai;2.0;3.0;5.0
+Jogador 72;Masculino;2005-03-27;Dama;Paraguai;29.0;7.0;36.0
+Jogador 73;Feminino;1975-10-06;Xadrez;Argentina;36.0;38.0;74.0
+Jogador 74;Masculino;1969-11-20;Jogo da velha;Argentina;18.0;19.0;37.0
+Jogador 75;Masculino;1970-05-22;Dama;Paraguai;5.0;1.0;6.0
+Jogador 76;Feminino;1956-02-09;Xadrez;Uruguai;11.0;6.0;17.0
+Jogador 77;Feminino;2004-01-08;Jogo da velha;Chile;18.0;9.0;27.0
+Jogador 78;Feminino;1981-11-19;Xadrez;Uruguai;23.0;6.0;29.0
+Jogador 79;Feminino;1953-09-15;Dama;Chile;5.0;27.0;32.0
+Jogador 80;Masculino;1989-05-04;Jogo da velha;Chile;1.0;5.0;6.0
+Jogador 81;Masculino;2001-06-23;Xadrez;Brasil;25.0;51.0;76.0
+Jogador 82;Masculino;1995-03-24;Xadrez;Brasil;38.0;13.0;51.0
+Jogador 83;Feminino;1997-06-15;Xadrez;Uruguai;28.0;51.0;79.0
+Jogador 84;Masculino;2000-07-23;Jogo da velha;Argentina;1.0;5.0;6.0
+Jogador 85;Masculino;1968-07-10;Jogo da velha;Paraguai;20.0;2.0;22.0
+Jogador 86;Masculino;1957-07-04;Jogo da velha;Paraguai;6.0;33.0;39.0
+Jogador 87;Feminino;1975-05-25;Dama;Argentina;80.0;6.0;86.0
+Jogador 88;Feminino;1957-03-21;Xadrez;Brasil;50.0;19.0;69.0
+Jogador 89;Masculino;1998-03-26;Jogo da velha;Chile;22.0;9.0;31.0
+Jogador 90;Masculino;2002-12-17;Jogo da velha;Argentina;2.0;4.0;6.0
+Jogador 91;Feminino;1963-12-18;Jogo da velha;Argentina;39.0;16.0;55.0
+Jogador 92;Masculino;1992-11-06;Dama;Chile;90.0;9.0;99.0
+Jogador 93;Masculino;1955-11-26;Jogo da velha;Paraguai;16.0;80.0;96.0
+Jogador 94;Feminino;1972-03-18;Dama;Uruguai;23.0;3.0;26.0
+Jogador 95;Masculino;1951-12-26;Dama;Paraguai;6.0;53.0;59.0
+Jogador 96;Feminino;1999-10-13;Jogo da velha;Argentina;18.0;2.0;20.0
+Jogador 97;Feminino;1987-01-02;Dama;Chile;39.0;0.0;39.0
+Jogador 98;Feminino;1980-04-16;Dama;Paraguai;9.0;1.0;10.0
+Jogador 99;Feminino;1976-09-18;Dama;Brasil;7.0;20.0;27.0
+Jogador 100;Masculino;1967-04-12;Dama;Argentina;34.0;64.0;98.0
+Jogador 101;Masculino;1997-12-03;Xadrez;Chile;38.0;2.0;40.0
+Jogador 102;Feminino;1984-06-02;Dama;Paraguai;12.0;6.0;18.0
+Jogador 103;Feminino;1964-10-28;Dama;Paraguai;30.0;65.0;95.0
+Jogador 104;Masculino;1953-02-02;Xadrez;Paraguai;6.0;19.0;25.0
+Jogador 105;Feminino;2002-11-22;Jogo da velha;Brasil;14.0;86.0;100.0
+Jogador 106;Feminino;1951-07-24;Dama;Paraguai;14.0;2.0;16.0
+Jogador 107;Feminino;1990-02-19;Dama;Uruguai;1.0;5.0;6.0
+Jogador 108;Feminino;1958-01-10;Xadrez;Brasil;5.0;13.0;18.0
+Jogador 109;Feminino;2003-05-27;Xadrez;Argentina;3.0;8.0;11.0
+Jogador 110;Masculino;1992-12-01;Jogo da velha;Chile;45.0;15.0;60.0
+Jogador 111;Feminino;1981-07-31;Jogo da velha;Paraguai;10.0;0.0;10.0
+Jogador 112;Feminino;1989-05-24;Dama;Paraguai;43.0;41.0;84.0
+Jogador 113;Masculino;1970-04-27;Dama;Uruguai;44.0;2.0;46.0
+Jogador 114;Feminino;1997-11-25;Jogo da velha;Uruguai;36.0;52.0;88.0
+Jogador 115;Masculino;1968-02-02;Jogo da velha;Brasil;34.0;39.0;73.0
+Jogador 116;Feminino;2001-05-21;Jogo da velha;Uruguai;61.0;31.0;92.0
+Jogador 117;Masculino;1976-11-07;Dama;Paraguai;14.0;43.0;57.0
+Jogador 118;Masculino;1991-10-09;Xadrez;Chile;28.0;70.0;98.0
+Jogador 119;Feminino;1953-08-26;Jogo da velha;Argentina;23.0;49.0;72.0
+Jogador 120;Feminino;1956-10-29;Jogo da velha;Chile;9.0;23.0;32.0
+Jogador 121;Masculino;1981-06-23;Jogo da velha;Brasil;25.0;27.0;52.0
+Jogador 122;Masculino;1967-06-20;Jogo da velha;Chile;52.0;8.0;60.0
+Jogador 123;Masculino;1983-06-03;Xadrez;Brasil;24.0;68.0;92.0
+Jogador 124;Feminino;1977-11-29;Dama;Paraguai;4.0;18.0;22.0
+Jogador 125;Masculino;1957-05-03;Jogo da velha;Chile;29.0;0.0;29.0
+Jogador 126;Masculino;1955-10-08;Xadrez;Paraguai;57.0;13.0;70.0
+Jogador 127;Feminino;1985-12-23;Jogo da velha;Argentina;27.0;18.0;45.0
+Jogador 128;Masculino;1958-12-22;Dama;Brasil;27.0;10.0;37.0
+Jogador 129;Masculino;1958-10-24;Jogo da velha;Argentina;3.0;4.0;7.0
+Jogador 130;Masculino;1961-07-01;Xadrez;Chile;70.0;22.0;92.0
+Jogador 131;Feminino;1987-12-03;Dama;Uruguai;23.0;4.0;27.0
+Jogador 132;Feminino;1984-03-16;Jogo da velha;Paraguai;20.0;18.0;38.0
+Jogador 133;Feminino;1975-10-23;Jogo da velha;Paraguai;11.0;66.0;77.0
+Jogador 134;Feminino;1966-01-22;Dama;Brasil;89.0;3.0;92.0
+Jogador 135;Feminino;1976-09-01;Dama;Chile;7.0;27.0;34.0
+Jogador 136;Masculino;2003-05-14;Xadrez;Uruguai;45.0;19.0;64.0
+Jogador 137;Masculino;2002-04-04;Dama;Argentina;34.0;42.0;76.0
+Jogador 138;Feminino;1963-02-16;Jogo da velha;Chile;16.0;28.0;44.0
+Jogador 139;Masculino;1968-01-19;Dama;Uruguai;27.0;23.0;50.0
+Jogador 140;Masculino;1956-05-29;Xadrez;Chile;27.0;10.0;37.0
+Jogador 141;Masculino;1984-06-14;Dama;Brasil;32.0;0.0;32.0
+Jogador 142;Masculino;1973-08-27;Dama;Paraguai;47.0;34.0;81.0
+Jogador 143;Masculino;1995-10-21;Jogo da velha;Argentina;31.0;9.0;40.0
+Jogador 144;Feminino;1952-02-22;Xadrez;Argentina;1.0;30.0;31.0
+Jogador 145;Masculino;1995-02-13;Jogo da velha;Brasil;31.0;9.0;40.0
+Jogador 146;Feminino;1996-01-03;Xadrez;Brasil;81.0;4.0;85.0
+Jogador 147;Masculino;1974-07-10;Dama;Brasil;14.0;9.0;23.0
+Jogador 148;Feminino;1961-08-05;Dama;Argentina;15.0;31.0;46.0
+Jogador 149;Feminino;1982-10-04;Xadrez;Uruguai;24.0;17.0;41.0
+Jogador 150;Feminino;1995-02-03;Jogo da velha;Paraguai;1.0;0.0;1.0
+Jogador 151;Feminino;1976-10-26;Xadrez;Argentina;5.0;4.0;9.0
+Jogador 152;Masculino;1997-07-09;Jogo da velha;Argentina;2.0;8.0;10.0
+Jogador 153;Feminino;1955-11-10;Jogo da velha;Uruguai;41.0;19.0;60.0
+Jogador 154;Feminino;1966-04-30;Dama;Uruguai;11.0;25.0;36.0
+Jogador 155;Masculino;1968-04-17;Xadrez;Uruguai;12.0;38.0;50.0
+Jogador 156;Feminino;1964-05-18;Xadrez;Chile;23.0;7.0;30.0
+Jogador 157;Feminino;1950-02-06;Xadrez;Argentina;12.0;2.0;14.0
+Jogador 158;Masculino;2003-07-03;Dama;Brasil;5.0;0.0;5.0
+Jogador 159;Feminino;1986-08-31;Dama;Paraguai;51.0;18.0;69.0
+Jogador 160;Feminino;1996-05-15;Dama;Paraguai;20.0;59.0;79.0
+Jogador 161;Feminino;2005-09-05;Xadrez;Uruguai;22.0;61.0;83.0
+Jogador 162;Masculino;1984-01-31;Xadrez;Argentina;26.0;13.0;39.0
+Jogador 163;Masculino;1971-02-03;Dama;Chile;18.0;43.0;61.0
+Jogador 164;Feminino;1957-02-20;Dama;Chile;17.0;17.0;34.0
+Jogador 165;Feminino;2004-06-30;Jogo da velha;Paraguai;39.0;39.0;78.0
+Jogador 166;Masculino;2000-10-11;Jogo da velha;Chile;14.0;7.0;21.0
+Jogador 167;Feminino;1988-05-29;Xadrez;Argentina;45.0;15.0;60.0
+Jogador 168;Masculino;1950-08-25;Dama;Uruguai;7.0;6.0;13.0
+Jogador 169;Feminino;1996-03-12;Jogo da velha;Argentina;53.0;40.0;93.0
+Jogador 170;Feminino;1985-03-12;Xadrez;Argentina;27.0;18.0;45.0
+Jogador 171;Masculino;1971-06-14;Jogo da velha;Chile;15.0;41.0;56.0
+Jogador 172;Masculino;1954-06-18;Dama;Uruguai;47.0;35.0;82.0
+Jogador 173;Masculino;1976-02-08;Jogo da velha;Brasil;26.0;27.0;53.0
+Jogador 174;Masculino;1981-06-22;Xadrez;Paraguai;34.0;14.0;48.0
+Jogador 175;Masculino;1994-06-26;Xadrez;Chile;11.0;74.0;85.0
+Jogador 176;Feminino;1975-09-11;Dama;Paraguai;36.0;1.0;37.0
+Jogador 177;Feminino;1966-01-30;Dama;Paraguai;32.0;55.0;87.0
+Jogador 178;Feminino;1960-10-31;Xadrez;Chile;79.0;16.0;95.0
+Jogador 179;Masculino;1973-11-01;Dama;Chile;44.0;34.0;78.0
+Jogador 180;Masculino;1968-03-19;Dama;Paraguai;4.0;47.0;51.0
+Jogador 181;Feminino;1979-01-18;Xadrez;Paraguai;8.0;89.0;97.0
+Jogador 182;Masculino;1968-03-29;Dama;Brasil;34.0;3.0;37.0
+Jogador 183;Feminino;2000-08-31;Jogo da velha;Brasil;4.0;7.0;11.0
+Jogador 184;Feminino;1964-06-10;Dama;Paraguai;51.0;6.0;57.0
+Jogador 185;Feminino;1978-05-12;Jogo da velha;Argentina;51.0;45.0;96.0
+Jogador 186;Feminino;2004-01-09;Xadrez;Brasil;80.0;3.0;83.0
+Jogador 187;Feminino;1976-01-09;Xadrez;Uruguai;66.0;0.0;66.0
+Jogador 188;Feminino;1987-10-20;Jogo da velha;Paraguai;11.0;64.0;75.0
+Jogador 189;Feminino;1984-12-15;Jogo da velha;Argentina;78.0;3.0;81.0
+Jogador 190;Feminino;1975-05-20;Jogo da velha;Paraguai;23.0;35.0;58.0
+Jogador 191;Feminino;1984-10-06;Xadrez;Argentina;14.0;22.0;36.0
+Jogador 192;Feminino;2002-12-09;Jogo da velha;Argentina;49.0;36.0;85.0
+Jogador 193;Feminino;1967-03-17;Jogo da velha;Brasil;27.0;42.0;69.0
+Jogador 194;Masculino;1990-09-05;Jogo da velha;Chile;42.0;23.0;65.0
+Jogador 195;Masculino;1969-11-09;Xadrez;Chile;8.0;3.0;11.0
+Jogador 196;Masculino;1988-12-26;Xadrez;Uruguai;12.0;4.0;16.0
+Jogador 197;Feminino;1979-12-07;Dama;Chile;9.0;29.0;38.0
+Jogador 198;Masculino;1971-02-14;Dama;Argentina;32.0;7.0;39.0
+Jogador 199;Masculino;2003-03-21;Jogo da velha;Brasil;4.0;8.0;12.0
+Jogador 200;Feminino;1982-11-05;Jogo da velha;Chile;3.0;34.0;37.0
+Jogador 201;Feminino;2005-02-06;Xadrez;Argentina;3.0;4.0;7.0
+Jogador 202;Masculino;1977-05-28;Jogo da velha;Paraguai;7.0;28.0;35.0
+Jogador 203;Feminino;1953-04-09;Jogo da velha;Paraguai;50.0;27.0;77.0
+Jogador 204;Masculino;2001-01-29;Dama;Chile;10.0;26.0;36.0
+Jogador 205;Feminino;1953-06-30;Dama;Paraguai;12.0;39.0;51.0
+Jogador 206;Masculino;1967-11-17;Xadrez;Chile;18.0;2.0;20.0
+Jogador 207;Feminino;1961-02-18;Xadrez;Brasil;1.0;41.0;42.0
+Jogador 208;Masculino;1958-10-02;Dama;Uruguai;10.0;0.0;10.0
+Jogador 209;Feminino;1979-12-26;Dama;Uruguai;42.0;31.0;73.0
+Jogador 210;Masculino;1988-10-29;Jogo da velha;Brasil;10.0;56.0;66.0
+Jogador 211;Masculino;1984-06-10;Jogo da velha;Uruguai;40.0;22.0;62.0
+Jogador 212;Feminino;1972-08-31;Xadrez;Chile;26.0;19.0;45.0
+Jogador 213;Masculino;1982-01-19;Jogo da velha;Chile;8.0;67.0;75.0
+Jogador 214;Feminino;1966-03-19;Jogo da velha;Paraguai;1.0;15.0;16.0
+Jogador 215;Feminino;1955-04-22;Jogo da velha;Uruguai;11.0;4.0;15.0
+Jogador 216;Masculino;2004-10-16;Xadrez;Chile;58.0;1.0;59.0
+Jogador 217;Masculino;1997-07-28;Dama;Chile;50.0;11.0;61.0
+Jogador 218;Masculino;1964-09-28;Dama;Chile;27.0;13.0;40.0
+Jogador 219;Masculino;1989-03-26;Jogo da velha;Argentina;7.0;49.0;56.0
+Jogador 220;Feminino;1979-10-28;Xadrez;Chile;89.0;9.0;98.0
+Jogador 221;Masculino;2003-07-19;Dama;Chile;1.0;49.0;50.0
+Jogador 222;Feminino;1980-07-19;Xadrez;Uruguai;8.0;68.0;76.0
+Jogador 223;Feminino;1951-09-16;Xadrez;Brasil;79.0;11.0;90.0
+Jogador 224;Feminino;1969-04-05;Dama;Brasil;2.0;8.0;10.0
+Jogador 225;Feminino;2003-10-09;Xadrez;Chile;3.0;13.0;16.0
+Jogador 226;Feminino;2004-07-31;Jogo da velha;Chile;8.0;0.0;8.0
+Jogador 227;Masculino;1968-10-08;Xadrez;Brasil;12.0;8.0;20.0
+Jogador 228;Masculino;1981-12-16;Xadrez;Brasil;13.0;5.0;18.0
+Jogador 229;Feminino;1953-07-30;Dama;Chile;3.0;4.0;7.0
+Jogador 230;Feminino;2001-12-01;Xadrez;Chile;16.0;19.0;35.0
+Jogador 231;Masculino;1961-01-09;Dama;Paraguai;12.0;11.0;23.0
+Jogador 232;Feminino;1995-11-23;Xadrez;Paraguai;69.0;26.0;95.0
+Jogador 233;Masculino;1970-12-06;Jogo da velha;Uruguai;12.0;78.0;90.0
+Jogador 234;Masculino;1975-10-05;Jogo da velha;Paraguai;39.0;5.0;44.0
+Jogador 235;Feminino;1976-12-17;Xadrez;Brasil;10.0;52.0;62.0
+Jogador 236;Feminino;1992-05-27;Xadrez;Chile;4.0;11.0;15.0
+Jogador 237;Feminino;1950-02-01;Dama;Brasil;11.0;31.0;42.0
+Jogador 238;Feminino;1963-09-19;Dama;Paraguai;8.0;48.0;56.0
+Jogador 239;Masculino;1961-08-23;Xadrez;Argentina;48.0;34.0;82.0
+Jogador 240;Masculino;1983-10-12;Dama;Argentina;15.0;41.0;56.0
+Jogador 241;Feminino;2000-04-11;Jogo da velha;Paraguai;8.0;38.0;46.0
+Jogador 242;Masculino;1992-08-06;Dama;Paraguai;27.0;71.0;98.0
+Jogador 243;Feminino;1961-08-29;Jogo da velha;Chile;22.0;61.0;83.0
+Jogador 244;Masculino;1970-09-20;Xadrez;Brasil;3.0;4.0;7.0
+Jogador 245;Masculino;1979-04-13;Dama;Argentina;19.0;27.0;46.0
+Jogador 246;Masculino;1997-05-11;Xadrez;Brasil;12.0;4.0;16.0
+Jogador 247;Feminino;1954-02-14;Dama;Argentina;33.0;56.0;89.0
+Jogador 248;Feminino;1965-02-28;Jogo da velha;Brasil;37.0;13.0;50.0
+Jogador 249;Feminino;1986-01-19;Jogo da velha;Paraguai;28.0;7.0;35.0
+Jogador 250;Feminino;1967-01-18;Xadrez;Uruguai;27.0;0.0;27.0
+Jogador 251;Masculino;1975-07-05;Jogo da velha;Uruguai;27.0;3.0;30.0
+Jogador 252;Masculino;1985-08-18;Jogo da velha;Chile;1.0;27.0;28.0
+Jogador 253;Feminino;1976-05-24;Dama;Uruguai;2.0;9.0;11.0
+Jogador 254;Feminino;1958-05-23;Jogo da velha;Brasil;1.0;15.0;16.0
+Jogador 255;Masculino;2003-03-14;Xadrez;Brasil;33.0;9.0;42.0
+Jogador 256;Feminino;2000-09-28;Xadrez;Chile;1.0;72.0;73.0
+Jogador 257;Feminino;1967-07-24;Dama;Uruguai;15.0;1.0;16.0
+Jogador 258;Masculino;1975-07-30;Jogo da velha;Paraguai;13.0;2.0;15.0
+Jogador 259;Masculino;2005-02-08;Dama;Chile;18.0;75.0;93.0
+Jogador 260;Masculino;1958-09-06;Jogo da velha;Paraguai;17.0;5.0;22.0
+Jogador 261;Masculino;1999-08-19;Xadrez;Uruguai;12.0;32.0;44.0
+Jogador 262;Feminino;1972-07-09;Xadrez;Uruguai;42.0;16.0;58.0
+Jogador 263;Masculino;2004-09-13;Dama;Paraguai;62.0;1.0;63.0
+Jogador 264;Masculino;1961-03-12;Dama;Paraguai;59.0;19.0;78.0
+Jogador 265;Masculino;1961-06-26;Jogo da velha;Brasil;28.0;46.0;74.0
+Jogador 266;Feminino;1961-12-21;Jogo da velha;Uruguai;7.0;52.0;59.0
+Jogador 267;Feminino;2003-06-28;Xadrez;Argentina;1.0;9.0;10.0
+Jogador 268;Masculino;1970-05-15;Jogo da velha;Brasil;22.0;17.0;39.0
+Jogador 269;Feminino;1978-02-17;Xadrez;Paraguai;6.0;1.0;7.0
+Jogador 270;Feminino;1974-02-06;Dama;Uruguai;43.0;5.0;48.0
+Jogador 271;Feminino;1989-04-01;Xadrez;Brasil;4.0;0.0;4.0
+Jogador 272;Feminino;1976-07-29;Dama;Chile;50.0;36.0;86.0
+Jogador 273;Feminino;1962-07-06;Xadrez;Brasil;22.0;28.0;50.0
+Jogador 274;Feminino;1971-12-23;Dama;Brasil;21.0;21.0;42.0
+Jogador 275;Masculino;1987-01-31;Jogo da velha;Paraguai;18.0;55.0;73.0
+Jogador 276;Masculino;1991-09-12;Xadrez;Brasil;31.0;16.0;47.0
+Jogador 277;Feminino;1972-05-16;Dama;Chile;22.0;4.0;26.0
+Jogador 278;Feminino;1973-04-25;Xadrez;Chile;2.0;21.0;23.0
+Jogador 279;Masculino;1965-06-07;Dama;Chile;13.0;54.0;67.0
+Jogador 280;Masculino;2002-04-17;Dama;Brasil;39.0;54.0;93.0
+Jogador 281;Feminino;1958-05-28;Jogo da velha;Brasil;6.0;83.0;89.0
+Jogador 282;Feminino;1988-11-04;Dama;Brasil;53.0;23.0;76.0
+Jogador 283;Feminino;1986-03-29;Jogo da velha;Chile;2.0;8.0;10.0
+Jogador 284;Masculino;1978-04-28;Xadrez;Chile;14.0;3.0;17.0
+Jogador 285;Masculino;1987-03-28;Xadrez;Paraguai;41.0;50.0;91.0
+Jogador 286;Masculino;1982-11-20;Xadrez;Paraguai;38.0;29.0;67.0
+Jogador 287;Masculino;2004-02-08;Xadrez;Brasil;48.0;25.0;73.0
+Jogador 288;Masculino;1952-01-02;Xadrez;Brasil;3.0;14.0;17.0
+Jogador 289;Masculino;1982-10-24;Jogo da velha;Uruguai;1.0;92.0;93.0
+Jogador 290;Masculino;1955-10-23;Dama;Chile;32.0;43.0;75.0
+Jogador 291;Masculino;1982-10-09;Dama;Paraguai;27.0;55.0;82.0
+Jogador 292;Feminino;1974-01-04;Jogo da velha;Paraguai;26.0;4.0;30.0
+Jogador 293;Masculino;1974-10-08;Jogo da velha;Uruguai;1.0;1.0;2.0
+Jogador 294;Masculino;1989-11-02;Jogo da velha;Paraguai;19.0;3.0;22.0
+Jogador 295;Feminino;1960-03-11;Jogo da velha;Argentina;10.0;20.0;30.0
+Jogador 296;Masculino;1998-01-02;Jogo da velha;Chile;8.0;26.0;34.0
+Jogador 297;Masculino;1960-01-08;Xadrez;Uruguai;41.0;4.0;45.0
+Jogador 298;Masculino;1967-08-27;Dama;Argentina;7.0;1.0;8.0
+Jogador 299;Masculino;1996-05-19;Xadrez;Chile;8.0;89.0;97.0
+Jogador 300;Masculino;1999-08-04;Xadrez;Argentina;1.0;2.0;3.0
+Jogador 301;Feminino;2004-03-06;Dama;Brasil;47.0;33.0;80.0
+Jogador 302;Masculino;1950-04-19;Jogo da velha;Brasil;21.0;26.0;47.0
+Jogador 303;Masculino;1961-11-02;Xadrez;Chile;36.0;45.0;81.0
+Jogador 304;Masculino;2003-11-19;Jogo da velha;Argentina;26.0;11.0;37.0
+Jogador 305;Feminino;1976-04-24;Xadrez;Argentina;12.0;10.0;22.0
+Jogador 306;Feminino;2000-08-15;Dama;Paraguai;11.0;16.0;27.0
+Jogador 307;Masculino;1988-05-05;Jogo da velha;Uruguai;20.0;2.0;22.0
+Jogador 308;Masculino;1962-03-22;Xadrez;Chile;19.0;64.0;83.0
+Jogador 309;Feminino;1958-05-25;Jogo da velha;Paraguai;9.0;0.0;9.0
+Jogador 310;Masculino;1974-03-16;Jogo da velha;Chile;10.0;20.0;30.0
+Jogador 311;Feminino;1993-12-22;Dama;Brasil;2.0;28.0;30.0
+Jogador 312;Feminino;1960-05-30;Dama;Uruguai;25.0;6.0;31.0
+Jogador 313;Masculino;1997-06-01;Xadrez;Paraguai;19.0;30.0;49.0
+Jogador 314;Masculino;1964-12-03;Xadrez;Uruguai;9.0;79.0;88.0
+Jogador 315;Masculino;1980-01-03;Jogo da velha;Argentina;15.0;1.0;16.0
+Jogador 316;Masculino;1976-09-19;Xadrez;Uruguai;81.0;15.0;96.0
+Jogador 317;Feminino;1969-05-27;Xadrez;Uruguai;22.0;71.0;93.0
+Jogador 318;Masculino;1985-09-02;Xadrez;Uruguai;25.0;4.0;29.0
+Jogador 319;Feminino;1983-06-29;Jogo da velha;Uruguai;10.0;24.0;34.0
+Jogador 320;Feminino;2001-09-13;Xadrez;Uruguai;7.0;6.0;13.0
+Jogador 321;Feminino;1986-02-04;Dama;Brasil;21.0;17.0;38.0
+Jogador 322;Masculino;1964-10-03;Jogo da velha;Uruguai;9.0;68.0;77.0
+Jogador 323;Feminino;2004-06-23;Dama;Chile;19.0;0.0;19.0
+Jogador 324;Feminino;1994-03-23;Dama;Brasil;6.0;1.0;7.0
+Jogador 325;Feminino;1968-05-20;Jogo da velha;Argentina;12.0;59.0;71.0
+Jogador 326;Masculino;1987-05-07;Dama;Chile;46.0;21.0;67.0
+Jogador 327;Feminino;1964-12-05;Xadrez;Uruguai;11.0;44.0;55.0
+Jogador 328;Feminino;1968-10-17;Dama;Uruguai;9.0;41.0;50.0
+Jogador 329;Masculino;1987-12-08;Jogo da velha;Argentina;30.0;8.0;38.0
+Jogador 330;Masculino;1994-11-09;Jogo da velha;Chile;72.0;4.0;76.0
+Jogador 331;Feminino;1959-03-10;Jogo da velha;Argentina;1.0;1.0;2.0
+Jogador 332;Feminino;2000-03-25;Jogo da velha;Chile;59.0;12.0;71.0
+Jogador 333;Masculino;2004-03-25;Dama;Argentina;48.0;2.0;50.0
+Jogador 334;Masculino;1976-08-13;Dama;Chile;50.0;5.0;55.0
+Jogador 335;Masculino;1992-06-20;Jogo da velha;Chile;4.0;0.0;4.0
+Jogador 336;Feminino;1958-11-01;Dama;Brasil;6.0;1.0;7.0
+Jogador 337;Masculino;1996-06-13;Dama;Argentina;36.0;28.0;64.0
+Jogador 338;Masculino;1969-05-27;Xadrez;Paraguai;23.0;15.0;38.0
+Jogador 339;Feminino;1965-02-13;Dama;Argentina;5.0;0.0;5.0
+Jogador 340;Feminino;1953-01-26;Xadrez;Brasil;1.0;6.0;7.0
+Jogador 341;Feminino;1987-07-16;Jogo da velha;Uruguai;3.0;7.0;10.0
+Jogador 342;Feminino;2005-06-02;Dama;Paraguai;25.0;3.0;28.0
+Jogador 343;Feminino;2004-05-26;Jogo da velha;Uruguai;20.0;50.0;70.0
+Jogador 344;Masculino;1994-09-19;Jogo da velha;Uruguai;53.0;15.0;68.0
+Jogador 345;Masculino;1979-11-27;Jogo da velha;Chile;5.0;54.0;59.0
+Jogador 346;Masculino;1999-06-21;Xadrez;Argentina;79.0;6.0;85.0
+Jogador 347;Masculino;1989-02-13;Xadrez;Paraguai;2.0;0.0;2.0
+Jogador 348;Masculino;1957-11-21;Dama;Paraguai;26.0;72.0;98.0
+Jogador 349;Feminino;2004-08-25;Jogo da velha;Uruguai;1.0;55.0;56.0
+Jogador 350;Feminino;1970-08-31;Xadrez;Paraguai;50.0;21.0;71.0
+Jogador 351;Masculino;1977-07-20;Dama;Paraguai;15.0;22.0;37.0
+Jogador 352;Feminino;1993-10-10;Jogo da velha;Uruguai;20.0;17.0;37.0
+Jogador 353;Feminino;1985-01-15;Jogo da velha;Uruguai;1.0;14.0;15.0
+Jogador 354;Feminino;1974-07-21;Jogo da velha;Argentina;32.0;9.0;41.0
+Jogador 355;Masculino;1983-11-29;Xadrez;Chile;20.0;1.0;21.0
+Jogador 356;Feminino;1964-07-02;Xadrez;Paraguai;39.0;5.0;44.0
+Jogador 357;Feminino;2003-11-07;Dama;Argentina;6.0;5.0;11.0
+Jogador 358;Masculino;1956-04-11;Jogo da velha;Paraguai;4.0;12.0;16.0
+Jogador 359;Masculino;1995-04-20;Jogo da velha;Paraguai;17.0;30.0;47.0
+Jogador 360;Masculino;1962-10-05;Dama;Argentina;3.0;26.0;29.0
+Jogador 361;Masculino;1956-06-03;Xadrez;Uruguai;93.0;1.0;94.0
+Jogador 362;Masculino;1956-07-18;Xadrez;Brasil;45.0;45.0;90.0
+Jogador 363;Feminino;1969-05-30;Dama;Uruguai;27.0;21.0;48.0
+Jogador 364;Masculino;1978-04-19;Jogo da velha;Paraguai;4.0;3.0;7.0
+Jogador 365;Feminino;2004-02-16;Dama;Paraguai;60.0;18.0;78.0
+Jogador 366;Feminino;1992-08-08;Xadrez;Paraguai;32.0;1.0;33.0
+Jogador 367;Feminino;1980-01-08;Xadrez;Paraguai;35.0;11.0;46.0
+Jogador 368;Feminino;1994-12-31;Jogo da velha;Brasil;15.0;0.0;15.0
+Jogador 369;Masculino;1965-06-01;Jogo da velha;Uruguai;45.0;2.0;47.0
+Jogador 370;Feminino;1983-11-07;Xadrez;Chile;64.0;3.0;67.0
+Jogador 371;Feminino;1956-01-10;Dama;Brasil;11.0;37.0;48.0
+Jogador 372;Feminino;1985-12-01;Dama;Argentina;22.0;13.0;35.0
+Jogador 373;Feminino;2000-06-24;Xadrez;Paraguai;11.0;49.0;60.0
+Jogador 374;Masculino;2005-09-28;Dama;Paraguai;30.0;26.0;56.0
+Jogador 375;Masculino;1994-06-27;Dama;Paraguai;20.0;25.0;45.0
+Jogador 376;Feminino;1962-11-10;Xadrez;Brasil;29.0;20.0;49.0
+Jogador 377;Feminino;1995-03-06;Jogo da velha;Brasil;57.0;4.0;61.0
+Jogador 378;Masculino;1967-02-22;Dama;Brasil;39.0;8.0;47.0
+Jogador 379;Feminino;1988-04-13;Dama;Uruguai;31.0;54.0;85.0
+Jogador 380;Feminino;1991-10-17;Jogo da velha;Brasil;48.0;18.0;66.0
+Jogador 381;Masculino;1976-03-24;Jogo da velha;Chile;29.0;6.0;35.0
+Jogador 382;Feminino;1955-01-04;Xadrez;Paraguai;1.0;0.0;1.0
+Jogador 383;Masculino;1981-08-01;Jogo da velha;Brasil;13.0;6.0;19.0
+Jogador 384;Feminino;1975-06-27;Xadrez;Argentina;6.0;79.0;85.0
+Jogador 385;Masculino;2004-04-22;Jogo da velha;Paraguai;46.0;26.0;72.0
+Jogador 386;Masculino;1991-07-08;Dama;Argentina;18.0;47.0;65.0
+Jogador 387;Masculino;2001-03-19;Dama;Argentina;7.0;2.0;9.0
+Jogador 388;Masculino;1954-08-27;Dama;Argentina;4.0;3.0;7.0
+Jogador 389;Masculino;1953-01-05;Xadrez;Brasil;9.0;12.0;21.0
+Jogador 390;Feminino;1961-01-18;Dama;Brasil;37.0;50.0;87.0
+Jogador 391;Masculino;1988-02-29;Xadrez;Paraguai;12.0;2.0;14.0
+Jogador 392;Feminino;1977-08-14;Xadrez;Chile;1.0;16.0;17.0
+Jogador 393;Feminino;1969-04-29;Xadrez;Argentina;84.0;1.0;85.0
+Jogador 394;Masculino;1981-04-09;Dama;Uruguai;2.0;6.0;8.0
+Jogador 395;Masculino;1977-02-02;Xadrez;Argentina;31.0;54.0;85.0
+Jogador 396;Masculino;1986-09-21;Dama;Argentina;41.0;45.0;86.0
+Jogador 397;Masculino;1992-04-27;Dama;Argentina;24.0;7.0;31.0
+Jogador 398;Masculino;1974-05-29;Xadrez;Paraguai;8.0;7.0;15.0
+Jogador 399;Masculino;1959-01-28;Xadrez;Chile;73.0;9.0;82.0
+Jogador 400;Feminino;1970-05-23;Xadrez;Chile;6.0;2.0;8.0
+Jogador 401;Masculino;1998-07-16;Jogo da velha;Brasil;14.0;24.0;38.0
+Jogador 402;Feminino;1989-09-13;Dama;Argentina;60.0;18.0;78.0
+Jogador 403;Masculino;1999-06-09;Jogo da velha;Uruguai;27.0;11.0;38.0
+Jogador 404;Masculino;1980-08-17;Xadrez;Paraguai;19.0;7.0;26.0
+Jogador 405;Feminino;1981-07-14;Xadrez;Uruguai;4.0;1.0;5.0
+Jogador 406;Masculino;1965-06-02;Xadrez;Brasil;15.0;5.0;20.0
+Jogador 407;Masculino;1997-02-11;Xadrez;Paraguai;34.0;16.0;50.0
+Jogador 408;Feminino;1970-11-23;Xadrez;Brasil;54.0;28.0;82.0
+Jogador 409;Masculino;1991-12-18;Jogo da velha;Chile;34.0;58.0;92.0
+Jogador 410;Feminino;1995-10-04;Xadrez;Paraguai;5.0;19.0;24.0
+Jogador 411;Masculino;1965-05-14;Jogo da velha;Paraguai;2.0;57.0;59.0
+Jogador 412;Feminino;1989-07-21;Dama;Argentina;1.0;0.0;1.0
+Jogador 413;Masculino;1950-07-02;Xadrez;Chile;45.0;33.0;78.0
+Jogador 414;Feminino;1975-09-14;Xadrez;Uruguai;3.0;25.0;28.0
+Jogador 415;Masculino;1974-05-09;Xadrez;Chile;63.0;26.0;89.0
+Jogador 416;Masculino;1950-01-13;Dama;Argentina;31.0;0.0;31.0
+Jogador 417;Masculino;1968-04-20;Dama;Uruguai;1.0;14.0;15.0
+Jogador 418;Feminino;1986-11-14;Xadrez;Paraguai;54.0;15.0;69.0
+Jogador 419;Masculino;1984-06-26;Dama;Argentina;61.0;1.0;62.0
+Jogador 420;Masculino;1977-08-19;Jogo da velha;Brasil;52.0;22.0;74.0
+Jogador 421;Masculino;1951-05-29;Jogo da velha;Argentina;16.0;70.0;86.0
+Jogador 422;Feminino;2004-10-21;Jogo da velha;Chile;14.0;77.0;91.0
+Jogador 423;Masculino;1988-09-05;Jogo da velha;Brasil;66.0;12.0;78.0
+Jogador 424;Masculino;1998-08-21;Dama;Paraguai;47.0;30.0;77.0
+Jogador 425;Masculino;1960-11-10;Xadrez;Argentina;29.0;12.0;41.0
+Jogador 426;Feminino;1989-10-15;Xadrez;Paraguai;15.0;28.0;43.0
+Jogador 427;Masculino;1956-03-20;Xadrez;Brasil;3.0;2.0;5.0
+Jogador 428;Feminino;1974-10-24;Jogo da velha;Brasil;17.0;9.0;26.0
+Jogador 429;Feminino;1978-06-19;Jogo da velha;Uruguai;6.0;10.0;16.0
+Jogador 430;Feminino;1969-12-22;Jogo da velha;Uruguai;75.0;12.0;87.0
+Jogador 431;Feminino;1986-07-23;Xadrez;Brasil;3.0;10.0;13.0
+Jogador 432;Masculino;1997-03-14;Jogo da velha;Chile;18.0;32.0;50.0
+Jogador 433;Masculino;1965-12-21;Jogo da velha;Paraguai;20.0;33.0;53.0
+Jogador 434;Feminino;1964-02-23;Dama;Uruguai;30.0;35.0;65.0
+Jogador 435;Feminino;1965-11-22;Jogo da velha;Paraguai;49.0;8.0;57.0
+Jogador 436;Feminino;1986-06-09;Dama;Brasil;81.0;14.0;95.0
+Jogador 437;Feminino;1964-09-21;Dama;Uruguai;41.0;51.0;92.0
+Jogador 438;Feminino;1979-09-11;Dama;Chile;27.0;45.0;72.0
+Jogador 439;Feminino;1957-05-06;Xadrez;Brasil;52.0;42.0;94.0
+Jogador 440;Masculino;1984-03-15;Xadrez;Uruguai;3.0;14.0;17.0
+Jogador 441;Feminino;1959-03-19;Xadrez;Brasil;29.0;22.0;51.0
+Jogador 442;Feminino;1958-04-12;Xadrez;Paraguai;4.0;13.0;17.0
+Jogador 443;Feminino;1981-11-20;Jogo da velha;Chile;54.0;8.0;62.0
+Jogador 444;Masculino;1985-01-16;Jogo da velha;Brasil;2.0;17.0;19.0
+Jogador 445;Masculino;1977-02-02;Xadrez;Argentina;43.0;1.0;44.0
+Jogador 446;Masculino;1977-06-21;Xadrez;Uruguai;1.0;13.0;14.0
+Jogador 447;Masculino;1950-07-15;Xadrez;Argentina;8.0;21.0;29.0
+Jogador 448;Feminino;2000-03-30;Xadrez;Uruguai;10.0;9.0;19.0
+Jogador 449;Masculino;1976-03-30;Jogo da velha;Argentina;5.0;20.0;25.0
+Jogador 450;Feminino;1991-04-10;Xadrez;Paraguai;52.0;25.0;77.0
+Jogador 451;Feminino;1976-01-09;Dama;Brasil;51.0;29.0;80.0
+Jogador 452;Masculino;1998-10-13;Dama;Paraguai;14.0;16.0;30.0
+Jogador 453;Feminino;1956-08-04;Xadrez;Chile;42.0;0.0;42.0
+Jogador 454;Feminino;2000-10-21;Dama;Paraguai;15.0;42.0;57.0
+Jogador 455;Masculino;1951-04-30;Xadrez;Paraguai;3.0;32.0;35.0
+Jogador 456;Masculino;1956-04-09;Jogo da velha;Argentina;15.0;3.0;18.0
+Jogador 457;Feminino;1990-03-02;Dama;Paraguai;7.0;68.0;75.0
+Jogador 458;Masculino;1952-08-27;Xadrez;Uruguai;60.0;32.0;92.0
+Jogador 459;Masculino;1999-06-17;Jogo da velha;Argentina;23.0;50.0;73.0
+Jogador 460;Feminino;1955-03-25;Xadrez;Argentina;13.0;48.0;61.0
+Jogador 461;Feminino;1983-12-09;Dama;Brasil;11.0;28.0;39.0
+Jogador 462;Masculino;1952-02-22;Xadrez;Argentina;82.0;10.0;92.0
+Jogador 463;Masculino;1998-10-27;Xadrez;Brasil;2.0;0.0;2.0
+Jogador 464;Masculino;1962-12-28;Xadrez;Brasil;32.0;0.0;32.0
+Jogador 465;Feminino;1988-10-13;Dama;Brasil;19.0;16.0;35.0
+Jogador 466;Feminino;1998-01-13;Xadrez;Argentina;35.0;14.0;49.0
+Jogador 467;Masculino;1965-05-15;Xadrez;Paraguai;61.0;16.0;77.0
+Jogador 468;Masculino;1995-02-16;Jogo da velha;Uruguai;67.0;3.0;70.0
+Jogador 469;Feminino;1979-02-06;Xadrez;Uruguai;2.0;25.0;27.0
+Jogador 470;Feminino;1960-03-08;Dama;Paraguai;1.0;0.0;1.0
+Jogador 471;Masculino;1988-07-12;Jogo da velha;Argentina;11.0;79.0;90.0
+Jogador 472;Masculino;1982-11-11;Xadrez;Paraguai;11.0;5.0;16.0
+Jogador 473;Masculino;2001-06-10;Jogo da velha;Brasil;23.0;46.0;69.0
+Jogador 474;Feminino;1977-10-22;Xadrez;Uruguai;24.0;4.0;28.0
+Jogador 475;Masculino;1964-01-05;Xadrez;Brasil;5.0;9.0;14.0
+Jogador 476;Feminino;1969-04-21;Jogo da velha;Paraguai;13.0;6.0;19.0
+Jogador 477;Feminino;2004-07-10;Dama;Brasil;3.0;1.0;4.0
+Jogador 478;Feminino;1993-10-07;Dama;Uruguai;29.0;30.0;59.0
+Jogador 479;Masculino;1975-08-14;Dama;Paraguai;50.0;43.0;93.0
+Jogador 480;Masculino;1956-10-25;Jogo da velha;Brasil;32.0;9.0;41.0
+Jogador 481;Feminino;2005-09-02;Jogo da velha;Argentina;36.0;1.0;37.0
+Jogador 482;Masculino;1992-07-05;Xadrez;Paraguai;13.0;21.0;34.0
+Jogador 483;Masculino;1976-04-07;Xadrez;Paraguai;46.0;50.0;96.0
+Jogador 484;Feminino;1990-06-19;Dama;Chile;62.0;16.0;78.0
+Jogador 485;Feminino;1999-04-18;Jogo da velha;Argentina;4.0;30.0;34.0
+Jogador 486;Masculino;1999-02-03;Jogo da velha;Brasil;1.0;0.0;1.0
+Jogador 487;Feminino;2002-06-26;Jogo da velha;Paraguai;49.0;35.0;84.0
+Jogador 488;Feminino;1953-10-28;Xadrez;Paraguai;31.0;0.0;31.0
+Jogador 489;Feminino;1984-02-22;Dama;Paraguai;11.0;43.0;54.0
+Jogador 490;Masculino;2003-09-15;Xadrez;Brasil;1.0;2.0;3.0
+Jogador 491;Masculino;1981-05-27;Dama;Argentina;16.0;1.0;17.0
+Jogador 492;Feminino;1989-10-25;Xadrez;Paraguai;1.0;23.0;24.0
+Jogador 493;Feminino;2001-09-21;Jogo da velha;Uruguai;19.0;6.0;25.0
+Jogador 494;Feminino;1977-07-11;Dama;Uruguai;31.0;11.0;42.0
+Jogador 495;Feminino;1974-03-06;Dama;Chile;52.0;28.0;80.0
+Jogador 496;Masculino;1959-09-02;Dama;Chile;13.0;51.0;64.0
+Jogador 497;Masculino;1962-06-01;Jogo da velha;Argentina;57.0;23.0;80.0
+Jogador 498;Masculino;1958-09-28;Jogo da velha;Chile;5.0;3.0;8.0
+Jogador 499;Feminino;2004-08-10;Jogo da velha;Paraguai;1.0;86.0;87.0

@@ -1,0 +1,500 @@
+jogador;genero;data_nascimento;jogo;pais;num_vitorias;num_derrotas;total_partidas;media
+jogador 1;Masculino;03/09/1990;Dama;Chile;14;0;14;1
+Jogador 2;Feminino;01/05/1986;Jogo da velha;Chile;39;20;59;0,661016949
+Jogador 3;Masculino;04/10/1964;Jogo da velha;Brasil;26;3;29;0,896551724
+Jogador 4;Masculino;28/09/1979;Jogo da velha;Argentina;9;72;81;0,111111111
+Jogador 5;Masculino;03/09/1978;Dama;Uruguai;1;54;55;0,018181818
+Jogador 6;Masculino;04/11/1977;Xadrez;Brasil;88;0;88;1
+Jogador 7;Masculino;11/11/1986;Xadrez;Argentina;53;24;77;0,688311688
+Jogador 8;Feminino;18/03/1996;Jogo da velha;Brasil;35;27;62;0,564516129
+Jogador 9;Masculino;14/01/1969;Dama;Paraguai;27;18;45;0,6
+Jogador 10;Masculino;06/05/2004;Xadrez;Chile;4;1;5;0,8
+Jogador 11;Masculino;25/09/1975;Xadrez;Brasil;18;48;66;0,272727273
+Jogador 12;Feminino;05/07/1992;Xadrez;Uruguai;22;2;24;0,916666667
+Jogador 13;Masculino;19/06/1996;Xadrez;Chile;13;4;17;0,764705882
+Jogador 14;Feminino;08/10/1980;Dama;Argentina;22;52;74;0,297297297
+Jogador 15;Feminino;18/10/1955;Dama;Chile;38;48;86;0,441860465
+Jogador 16;Feminino;01/11/1999;Xadrez;Chile;86;13;99;0,868686869
+Jogador 17;Masculino;01/02/1984;Xadrez;Brasil;41;11;52;0,788461538
+Jogador 18;Feminino;07/02/1981;Jogo da velha;Chile;53;20;73;0,726027397
+Jogador 19;Feminino;11/08/2004;Xadrez;Chile;4;77;81;0,049382716
+Jogador 20;Masculino;30/06/1954;Jogo da velha;Argentina;28;12;40;0,7
+Jogador 21;Feminino;05/09/1954;Xadrez;Brasil;10;82;92;0,108695652
+Jogador 22;Feminino;16/06/1955;Xadrez;Uruguai;40;31;71;0,563380282
+Jogador 23;Feminino;30/12/1997;Xadrez;Uruguai;11;18;29;0,379310345
+Jogador 24;Masculino;30/11/1988;Xadrez;Paraguai;5;12;17;0,294117647
+Jogador 25;Feminino;28/12/1970;Jogo da velha;Paraguai;8;58;66;0,121212121
+Jogador 26;Feminino;15/02/1963;Jogo da velha;Uruguai;4;6;10;0,4
+Jogador 27;Feminino;31/07/1994;Jogo da velha;Chile;84;11;95;0,884210526
+Jogador 28;Masculino;15/12/1962;Xadrez;Paraguai;10;32;42;0,238095238
+Jogador 29;Masculino;22/11/1984;Dama;Brasil;9;22;31;0,290322581
+Jogador 30;Feminino;17/03/2003;Xadrez;Paraguai;10;46;56;0,178571429
+Jogador 31;Masculino;17/01/1959;Dama;Paraguai;38;6;44;0,863636364
+Jogador 32;Masculino;24/03/1951;Jogo da velha;Uruguai;2;47;49;0,040816327
+Jogador 33;Feminino;14/07/1953;Xadrez;Chile;46;36;82;0,56097561
+Jogador 34;Feminino;12/09/1956;Xadrez;Argentina;16;4;20;0,8
+Jogador 35;Masculino;09/12/1951;Xadrez;Uruguai;33;3;36;0,916666667
+Jogador 36;Masculino;05/12/1973;Jogo da velha;Brasil;48;31;79;0,607594937
+Jogador 37;Feminino;07/11/1989;Dama;Paraguai;36;18;54;0,666666667
+Jogador 38;Masculino;06/11/1966;Dama;Brasil;1;42;43;0,023255814
+Jogador 39;Masculino;07/03/1955;Jogo da velha;Chile;23;4;27;0,851851852
+Jogador 40;Masculino;06/02/1990;Jogo da velha;Chile;8;23;31;0,258064516
+Jogador 41;Masculino;17/07/1953;Dama;Paraguai;8;17;25;0,32
+Jogador 42;Feminino;18/06/1998;Dama;Paraguai;1;14;15;0,066666667
+Jogador 43;Masculino;14/07/1951;Dama;Argentina;31;7;38;0,815789474
+Jogador 44;Masculino;25/04/1982;Jogo da velha;Argentina;16;44;60;0,266666667
+Jogador 45;Feminino;22/06/1992;Xadrez;Paraguai;23;35;58;0,396551724
+Jogador 46;Feminino;12/02/2005;Dama;Uruguai;2;14;16;0,125
+Jogador 47;Masculino;31/01/1978;Dama;Uruguai;17;68;85;0,2
+Jogador 48;Feminino;30/12/2005;Dama;Argentina;46;4;50;0,92
+Jogador 49;Feminino;01/08/1982;Dama;Brasil;4;28;32;0,125
+Jogador 50;Feminino;05/07/1995;Xadrez;Paraguai;41;11;52;0,788461538
+Jogador 51;Masculino;15/11/1959;Xadrez;Uruguai;74;13;87;0,850574713
+Jogador 52;Feminino;20/08/1957;Dama;Paraguai;18;64;82;0,219512195
+Jogador 53;Masculino;28/07/1964;Jogo da velha;Argentina;67;28;95;0,705263158
+Jogador 54;Feminino;14/10/1962;Dama;Paraguai;38;31;69;0,550724638
+Jogador 55;Feminino;20/06/1977;Dama;Brasil;34;29;63;0,53968254
+Jogador 56;Feminino;27/01/1959;Dama;Paraguai;51;29;80;0,6375
+Jogador 57;Masculino;31/07/2000;Jogo da velha;Paraguai;35;9;44;0,795454545
+Jogador 58;Feminino;01/08/1987;Dama;Brasil;2;8;10;0,2
+Jogador 59;Feminino;25/11/1990;Dama;Chile;9;20;29;0,310344828
+Jogador 60;Feminino;26/11/1959;Dama;Uruguai;38;44;82;0,463414634
+Jogador 61;Masculino;29/02/1996;Xadrez;Brasil;32;12;44;0,727272727
+Jogador 62;Feminino;20/12/1985;Jogo da velha;Chile;9;26;35;0,257142857
+Jogador 63;Masculino;23/06/2002;Dama;Uruguai;25;51;76;0,328947368
+Jogador 64;Masculino;04/03/1978;Jogo da velha;Paraguai;2;6;8;0,25
+Jogador 65;Feminino;07/11/1966;Jogo da velha;Paraguai;8;39;47;0,170212766
+Jogador 66;Feminino;30/01/1991;Dama;Brasil;34;6;40;0,85
+Jogador 67;Feminino;29/07/1984;Dama;Paraguai;11;33;44;0,25
+Jogador 68;Masculino;30/03/1996;Jogo da velha;Chile;34;31;65;0,523076923
+Jogador 69;Masculino;15/03/2003;Dama;Chile;52;20;72;0,722222222
+Jogador 70;Masculino;09/07/1980;Jogo da velha;Chile;29;60;89;0,325842697
+Jogador 71;Masculino;25/06/1988;Dama;Paraguai;2;3;5;0,4
+Jogador 72;Masculino;27/03/2005;Dama;Paraguai;29;7;36;0,805555556
+Jogador 73;Feminino;10/06/1975;Xadrez;Argentina;36;38;74;0,486486486
+Jogador 74;Masculino;20/11/1969;Jogo da velha;Argentina;18;19;37;0,486486486
+Jogador 75;Masculino;22/05/1970;Dama;Paraguai;5;1;6;0,833333333
+Jogador 76;Feminino;02/09/1956;Xadrez;Uruguai;11;6;17;0,647058824
+Jogador 77;Feminino;01/08/2004;Jogo da velha;Chile;18;9;27;0,666666667
+Jogador 78;Feminino;19/11/1981;Xadrez;Uruguai;23;6;29;0,793103448
+Jogador 79;Feminino;15/09/1953;Dama;Chile;5;27;32;0,15625
+Jogador 80;Masculino;05/04/1989;Jogo da velha;Chile;1;5;6;0,166666667
+Jogador 81;Masculino;23/06/2001;Xadrez;Brasil;25;51;76;0,328947368
+Jogador 82;Masculino;24/03/1995;Xadrez;Brasil;38;13;51;0,745098039
+Jogador 83;Feminino;15/06/1997;Xadrez;Uruguai;28;51;79;0,35443038
+Jogador 84;Masculino;23/07/2000;Jogo da velha;Argentina;1;5;6;0,166666667
+Jogador 85;Masculino;07/10/1968;Jogo da velha;Paraguai;20;2;22;0,909090909
+Jogador 86;Masculino;07/04/1957;Jogo da velha;Paraguai;6;33;39;0,153846154
+Jogador 87;Feminino;25/05/1975;Dama;Argentina;80;6;86;0,930232558
+Jogador 88;Feminino;21/03/1957;Xadrez;Brasil;50;19;69;0,724637681
+Jogador 89;Masculino;26/03/1998;Jogo da velha;Chile;22;9;31;0,709677419
+Jogador 90;Masculino;17/12/2002;Jogo da velha;Argentina;2;4;6;0,333333333
+Jogador 91;Feminino;18/12/1963;Jogo da velha;Argentina;39;16;55;0,709090909
+Jogador 92;Masculino;11/06/1992;Dama;Chile;90;9;99;0,909090909
+Jogador 93;Masculino;26/11/1955;Jogo da velha;Paraguai;16;80;96;0,166666667
+Jogador 94;Feminino;18/03/1972;Dama;Uruguai;23;3;26;0,884615385
+Jogador 95;Masculino;26/12/1951;Dama;Paraguai;6;53;59;0,101694915
+Jogador 96;Feminino;13/10/1999;Jogo da velha;Argentina;18;2;20;0,9
+Jogador 97;Feminino;01/02/1987;Dama;Chile;39;0;39;1
+Jogador 98;Feminino;16/04/1980;Dama;Paraguai;9;1;10;0,9
+Jogador 99;Feminino;18/09/1976;Dama;Brasil;7;20;27;0,259259259
+Jogador 100;Masculino;04/12/1967;Dama;Argentina;34;64;98;0,346938776
+Jogador 101;Masculino;12/03/1997;Xadrez;Chile;38;2;40;0,95
+Jogador 102;Feminino;06/02/1984;Dama;Paraguai;12;6;18;0,666666667
+Jogador 103;Feminino;28/10/1964;Dama;Paraguai;30;65;95;0,315789474
+Jogador 104;Masculino;02/02/1953;Xadrez;Paraguai;6;19;25;0,24
+Jogador 105;Feminino;22/11/2002;Jogo da velha;Brasil;14;86;100;0,14
+Jogador 106;Feminino;24/07/1951;Dama;Paraguai;14;2;16;0,875
+Jogador 107;Feminino;19/02/1990;Dama;Uruguai;1;5;6;0,166666667
+Jogador 108;Feminino;01/10/1958;Xadrez;Brasil;5;13;18;0,277777778
+Jogador 109;Feminino;27/05/2003;Xadrez;Argentina;3;8;11;0,272727273
+Jogador 110;Masculino;12/01/1992;Jogo da velha;Chile;45;15;60;0,75
+Jogador 111;Feminino;31/07/1981;Jogo da velha;Paraguai;10;0;10;1
+Jogador 112;Feminino;24/05/1989;Dama;Paraguai;43;41;84;0,511904762
+Jogador 113;Masculino;27/04/1970;Dama;Uruguai;44;2;46;0,956521739
+Jogador 114;Feminino;25/11/1997;Jogo da velha;Uruguai;36;52;88;0,409090909
+Jogador 115;Masculino;02/02/1968;Jogo da velha;Brasil;34;39;73;0,465753425
+Jogador 116;Feminino;21/05/2001;Jogo da velha;Uruguai;61;31;92;0,663043478
+Jogador 117;Masculino;11/07/1976;Dama;Paraguai;14;43;57;0,245614035
+Jogador 118;Masculino;10/09/1991;Xadrez;Chile;28;70;98;0,285714286
+Jogador 119;Feminino;26/08/1953;Jogo da velha;Argentina;23;49;72;0,319444444
+Jogador 120;Feminino;29/10/1956;Jogo da velha;Chile;9;23;32;0,28125
+Jogador 121;Masculino;23/06/1981;Jogo da velha;Brasil;25;27;52;0,480769231
+Jogador 122;Masculino;20/06/1967;Jogo da velha;Chile;52;8;60;0,866666667
+Jogador 123;Masculino;06/03/1983;Xadrez;Brasil;24;68;92;0,260869565
+Jogador 124;Feminino;29/11/1977;Dama;Paraguai;4;18;22;0,181818182
+Jogador 125;Masculino;05/03/1957;Jogo da velha;Chile;29;0;29;1
+Jogador 126;Masculino;10/08/1955;Xadrez;Paraguai;57;13;70;0,814285714
+Jogador 127;Feminino;23/12/1985;Jogo da velha;Argentina;27;18;45;0,6
+Jogador 128;Masculino;22/12/1958;Dama;Brasil;27;10;37;0,72972973
+Jogador 129;Masculino;24/10/1958;Jogo da velha;Argentina;3;4;7;0,428571429
+Jogador 130;Masculino;07/01/1961;Xadrez;Chile;70;22;92;0,760869565
+Jogador 131;Feminino;12/03/1987;Dama;Uruguai;23;4;27;0,851851852
+Jogador 132;Feminino;16/03/1984;Jogo da velha;Paraguai;20;18;38;0,526315789
+Jogador 133;Feminino;23/10/1975;Jogo da velha;Paraguai;11;66;77;0,142857143
+Jogador 134;Feminino;22/01/1966;Dama;Brasil;89;3;92;0,967391304
+Jogador 135;Feminino;09/01/1976;Dama;Chile;7;27;34;0,205882353
+Jogador 136;Masculino;14/05/2003;Xadrez;Uruguai;45;19;64;0,703125
+Jogador 137;Masculino;04/04/2002;Dama;Argentina;34;42;76;0,447368421
+Jogador 138;Feminino;16/02/1963;Jogo da velha;Chile;16;28;44;0,363636364
+Jogador 139;Masculino;19/01/1968;Dama;Uruguai;27;23;50;0,54
+Jogador 140;Masculino;29/05/1956;Xadrez;Chile;27;10;37;0,72972973
+Jogador 141;Masculino;14/06/1984;Dama;Brasil;32;0;32;1
+Jogador 142;Masculino;27/08/1973;Dama;Paraguai;47;34;81;0,580246914
+Jogador 143;Masculino;21/10/1995;Jogo da velha;Argentina;31;9;40;0,775
+Jogador 144;Feminino;22/02/1952;Xadrez;Argentina;1;30;31;0,032258065
+Jogador 145;Masculino;13/02/1995;Jogo da velha;Brasil;31;9;40;0,775
+Jogador 146;Feminino;01/03/1996;Xadrez;Brasil;81;4;85;0,952941176
+Jogador 147;Masculino;07/10/1974;Dama;Brasil;14;9;23;0,608695652
+Jogador 148;Feminino;08/05/1961;Dama;Argentina;15;31;46;0,326086957
+Jogador 149;Feminino;10/04/1982;Xadrez;Uruguai;24;17;41;0,585365854
+Jogador 150;Feminino;02/03/1995;Jogo da velha;Paraguai;1;0;1;1
+Jogador 151;Feminino;26/10/1976;Xadrez;Argentina;5;4;9;0,555555556
+Jogador 152;Masculino;07/09/1997;Jogo da velha;Argentina;2;8;10;0,2
+Jogador 153;Feminino;11/10/1955;Jogo da velha;Uruguai;41;19;60;0,683333333
+Jogador 154;Feminino;30/04/1966;Dama;Uruguai;11;25;36;0,305555556
+Jogador 155;Masculino;17/04/1968;Xadrez;Uruguai;12;38;50;0,24
+Jogador 156;Feminino;18/05/1964;Xadrez;Chile;23;7;30;0,766666667
+Jogador 157;Feminino;02/06/1950;Xadrez;Argentina;12;2;14;0,857142857
+Jogador 158;Masculino;07/03/2003;Dama;Brasil;5;0;5;1
+Jogador 159;Feminino;31/08/1986;Dama;Paraguai;51;18;69;0,739130435
+Jogador 160;Feminino;15/05/1996;Dama;Paraguai;20;59;79;0,253164557
+Jogador 161;Feminino;09/05/2005;Xadrez;Uruguai;22;61;83;0,265060241
+Jogador 162;Masculino;31/01/1984;Xadrez;Argentina;26;13;39;0,666666667
+Jogador 163;Masculino;02/03/1971;Dama;Chile;18;43;61;0,295081967
+Jogador 164;Feminino;20/02/1957;Dama;Chile;17;17;34;0,5
+Jogador 165;Feminino;30/06/2004;Jogo da velha;Paraguai;39;39;78;0,5
+Jogador 166;Masculino;10/11/2000;Jogo da velha;Chile;14;7;21;0,666666667
+Jogador 167;Feminino;29/05/1988;Xadrez;Argentina;45;15;60;0,75
+Jogador 168;Masculino;25/08/1950;Dama;Uruguai;7;6;13;0,538461538
+Jogador 169;Feminino;03/12/1996;Jogo da velha;Argentina;53;40;93;0,569892473
+Jogador 170;Feminino;03/12/1985;Xadrez;Argentina;27;18;45;0,6
+Jogador 171;Masculino;14/06/1971;Jogo da velha;Chile;15;41;56;0,267857143
+Jogador 172;Masculino;18/06/1954;Dama;Uruguai;47;35;82;0,573170732
+Jogador 173;Masculino;02/08/1976;Jogo da velha;Brasil;26;27;53;0,490566038
+Jogador 174;Masculino;22/06/1981;Xadrez;Paraguai;34;14;48;0,708333333
+Jogador 175;Masculino;26/06/1994;Xadrez;Chile;11;74;85;0,129411765
+Jogador 176;Feminino;09/11/1975;Dama;Paraguai;36;1;37;0,972972973
+Jogador 177;Feminino;30/01/1966;Dama;Paraguai;32;55;87;0,367816092
+Jogador 178;Feminino;31/10/1960;Xadrez;Chile;79;16;95;0,831578947
+Jogador 179;Masculino;11/01/1973;Dama;Chile;44;34;78;0,564102564
+Jogador 180;Masculino;19/03/1968;Dama;Paraguai;4;47;51;0,078431373
+Jogador 181;Feminino;18/01/1979;Xadrez;Paraguai;8;89;97;0,082474227
+Jogador 182;Masculino;29/03/1968;Dama;Brasil;34;3;37;0,918918919
+Jogador 183;Feminino;31/08/2000;Jogo da velha;Brasil;4;7;11;0,363636364
+Jogador 184;Feminino;06/10/1964;Dama;Paraguai;51;6;57;0,894736842
+Jogador 185;Feminino;05/12/1978;Jogo da velha;Argentina;51;45;96;0,53125
+Jogador 186;Feminino;01/09/2004;Xadrez;Brasil;80;3;83;0,963855422
+Jogador 187;Feminino;01/09/1976;Xadrez;Uruguai;66;0;66;1
+Jogador 188;Feminino;20/10/1987;Jogo da velha;Paraguai;11;64;75;0,146666667
+Jogador 189;Feminino;15/12/1984;Jogo da velha;Argentina;78;3;81;0,962962963
+Jogador 190;Feminino;20/05/1975;Jogo da velha;Paraguai;23;35;58;0,396551724
+Jogador 191;Feminino;10/06/1984;Xadrez;Argentina;14;22;36;0,388888889
+Jogador 192;Feminino;12/09/2002;Jogo da velha;Argentina;49;36;85;0,576470588
+Jogador 193;Feminino;17/03/1967;Jogo da velha;Brasil;27;42;69;0,391304348
+Jogador 194;Masculino;09/05/1990;Jogo da velha;Chile;42;23;65;0,646153846
+Jogador 195;Masculino;11/09/1969;Xadrez;Chile;8;3;11;0,727272727
+Jogador 196;Masculino;26/12/1988;Xadrez;Uruguai;12;4;16;0,75
+Jogador 197;Feminino;12/07/1979;Dama;Chile;9;29;38;0,236842105
+Jogador 198;Masculino;14/02/1971;Dama;Argentina;32;7;39;0,820512821
+Jogador 199;Masculino;21/03/2003;Jogo da velha;Brasil;4;8;12;0,333333333
+Jogador 200;Feminino;11/05/1982;Jogo da velha;Chile;3;34;37;0,081081081
+Jogador 201;Feminino;02/06/2005;Xadrez;Argentina;3;4;7;0,428571429
+Jogador 202;Masculino;28/05/1977;Jogo da velha;Paraguai;7;28;35;0,2
+Jogador 203;Feminino;04/09/1953;Jogo da velha;Paraguai;50;27;77;0,649350649
+Jogador 204;Masculino;29/01/2001;Dama;Chile;10;26;36;0,277777778
+Jogador 205;Feminino;30/06/1953;Dama;Paraguai;12;39;51;0,235294118
+Jogador 206;Masculino;17/11/1967;Xadrez;Chile;18;2;20;0,9
+Jogador 207;Feminino;18/02/1961;Xadrez;Brasil;1;41;42;0,023809524
+Jogador 208;Masculino;10/02/1958;Dama;Uruguai;10;0;10;1
+Jogador 209;Feminino;26/12/1979;Dama;Uruguai;42;31;73;0,575342466
+Jogador 210;Masculino;29/10/1988;Jogo da velha;Brasil;10;56;66;0,151515152
+Jogador 211;Masculino;06/10/1984;Jogo da velha;Uruguai;40;22;62;0,64516129
+Jogador 212;Feminino;31/08/1972;Xadrez;Chile;26;19;45;0,577777778
+Jogador 213;Masculino;19/01/1982;Jogo da velha;Chile;8;67;75;0,106666667
+Jogador 214;Feminino;19/03/1966;Jogo da velha;Paraguai;1;15;16;0,0625
+Jogador 215;Feminino;22/04/1955;Jogo da velha;Uruguai;11;4;15;0,733333333
+Jogador 216;Masculino;16/10/2004;Xadrez;Chile;58;1;59;0,983050847
+Jogador 217;Masculino;28/07/1997;Dama;Chile;50;11;61;0,819672131
+Jogador 218;Masculino;28/09/1964;Dama;Chile;27;13;40;0,675
+Jogador 219;Masculino;26/03/1989;Jogo da velha;Argentina;7;49;56;0,125
+Jogador 220;Feminino;28/10/1979;Xadrez;Chile;89;9;98;0,908163265
+Jogador 221;Masculino;19/07/2003;Dama;Chile;1;49;50;0,02
+Jogador 222;Feminino;19/07/1980;Xadrez;Uruguai;8;68;76;0,105263158
+Jogador 223;Feminino;16/09/1951;Xadrez;Brasil;79;11;90;0,877777778
+Jogador 224;Feminino;04/05/1969;Dama;Brasil;2;8;10;0,2
+Jogador 225;Feminino;10/09/2003;Xadrez;Chile;3;13;16;0,1875
+Jogador 226;Feminino;31/07/2004;Jogo da velha;Chile;8;0;8;1
+Jogador 227;Masculino;10/08/1968;Xadrez;Brasil;12;8;20;0,6
+Jogador 228;Masculino;16/12/1981;Xadrez;Brasil;13;5;18;0,722222222
+Jogador 229;Feminino;30/07/1953;Dama;Chile;3;4;7;0,428571429
+Jogador 230;Feminino;12/01/2001;Xadrez;Chile;16;19;35;0,457142857
+Jogador 231;Masculino;01/09/1961;Dama;Paraguai;12;11;23;0,52173913
+Jogador 232;Feminino;23/11/1995;Xadrez;Paraguai;69;26;95;0,726315789
+Jogador 233;Masculino;12/06/1970;Jogo da velha;Uruguai;12;78;90;0,133333333
+Jogador 234;Masculino;10/05/1975;Jogo da velha;Paraguai;39;5;44;0,886363636
+Jogador 235;Feminino;17/12/1976;Xadrez;Brasil;10;52;62;0,161290323
+Jogador 236;Feminino;27/05/1992;Xadrez;Chile;4;11;15;0,266666667
+Jogador 237;Feminino;02/01/1950;Dama;Brasil;11;31;42;0,261904762
+Jogador 238;Feminino;19/09/1963;Dama;Paraguai;8;48;56;0,142857143
+Jogador 239;Masculino;23/08/1961;Xadrez;Argentina;48;34;82;0,585365854
+Jogador 240;Masculino;10/12/1983;Dama;Argentina;15;41;56;0,267857143
+Jogador 241;Feminino;04/11/2000;Jogo da velha;Paraguai;8;38;46;0,173913043
+Jogador 242;Masculino;08/06/1992;Dama;Paraguai;27;71;98;0,275510204
+Jogador 243;Feminino;29/08/1961;Jogo da velha;Chile;22;61;83;0,265060241
+Jogador 244;Masculino;20/09/1970;Xadrez;Brasil;3;4;7;0,428571429
+Jogador 245;Masculino;13/04/1979;Dama;Argentina;19;27;46;0,413043478
+Jogador 246;Masculino;05/11/1997;Xadrez;Brasil;12;4;16;0,75
+Jogador 247;Feminino;14/02/1954;Dama;Argentina;33;56;89;0,370786517
+Jogador 248;Feminino;28/02/1965;Jogo da velha;Brasil;37;13;50;0,74
+Jogador 249;Feminino;19/01/1986;Jogo da velha;Paraguai;28;7;35;0,8
+Jogador 250;Feminino;18/01/1967;Xadrez;Uruguai;27;0;27;1
+Jogador 251;Masculino;07/05/1975;Jogo da velha;Uruguai;27;3;30;0,9
+Jogador 252;Masculino;18/08/1985;Jogo da velha;Chile;1;27;28;0,035714286
+Jogador 253;Feminino;24/05/1976;Dama;Uruguai;2;9;11;0,181818182
+Jogador 254;Feminino;23/05/1958;Jogo da velha;Brasil;1;15;16;0,0625
+Jogador 255;Masculino;14/03/2003;Xadrez;Brasil;33;9;42;0,785714286
+Jogador 256;Feminino;28/09/2000;Xadrez;Chile;1;72;73;0,01369863
+Jogador 257;Feminino;24/07/1967;Dama;Uruguai;15;1;16;0,9375
+Jogador 258;Masculino;30/07/1975;Jogo da velha;Paraguai;13;2;15;0,866666667
+Jogador 259;Masculino;02/08/2005;Dama;Chile;18;75;93;0,193548387
+Jogador 260;Masculino;09/06/1958;Jogo da velha;Paraguai;17;5;22;0,772727273
+Jogador 261;Masculino;19/08/1999;Xadrez;Uruguai;12;32;44;0,272727273
+Jogador 262;Feminino;07/09/1972;Xadrez;Uruguai;42;16;58;0,724137931
+Jogador 263;Masculino;13/09/2004;Dama;Paraguai;62;1;63;0,984126984
+Jogador 264;Masculino;03/12/1961;Dama;Paraguai;59;19;78;0,756410256
+Jogador 265;Masculino;26/06/1961;Jogo da velha;Brasil;28;46;74;0,378378378
+Jogador 266;Feminino;21/12/1961;Jogo da velha;Uruguai;7;52;59;0,118644068
+Jogador 267;Feminino;28/06/2003;Xadrez;Argentina;1;9;10;0,1
+Jogador 268;Masculino;15/05/1970;Jogo da velha;Brasil;22;17;39;0,564102564
+Jogador 269;Feminino;17/02/1978;Xadrez;Paraguai;6;1;7;0,857142857
+Jogador 270;Feminino;02/06/1974;Dama;Uruguai;43;5;48;0,895833333
+Jogador 271;Feminino;04/01/1989;Xadrez;Brasil;4;0;4;1
+Jogador 272;Feminino;29/07/1976;Dama;Chile;50;36;86;0,581395349
+Jogador 273;Feminino;07/06/1962;Xadrez;Brasil;22;28;50;0,44
+Jogador 274;Feminino;23/12/1971;Dama;Brasil;21;21;42;0,5
+Jogador 275;Masculino;31/01/1987;Jogo da velha;Paraguai;18;55;73;0,246575342
+Jogador 276;Masculino;09/12/1991;Xadrez;Brasil;31;16;47;0,659574468
+Jogador 277;Feminino;16/05/1972;Dama;Chile;22;4;26;0,846153846
+Jogador 278;Feminino;25/04/1973;Xadrez;Chile;2;21;23;0,086956522
+Jogador 279;Masculino;06/07/1965;Dama;Chile;13;54;67;0,194029851
+Jogador 280;Masculino;17/04/2002;Dama;Brasil;39;54;93;0,419354839
+Jogador 281;Feminino;28/05/1958;Jogo da velha;Brasil;6;83;89;0,06741573
+Jogador 282;Feminino;11/04/1988;Dama;Brasil;53;23;76;0,697368421
+Jogador 283;Feminino;29/03/1986;Jogo da velha;Chile;2;8;10;0,2
+Jogador 284;Masculino;28/04/1978;Xadrez;Chile;14;3;17;0,823529412
+Jogador 285;Masculino;28/03/1987;Xadrez;Paraguai;41;50;91;0,450549451
+Jogador 286;Masculino;20/11/1982;Xadrez;Paraguai;38;29;67;0,567164179
+Jogador 287;Masculino;02/08/2004;Xadrez;Brasil;48;25;73;0,657534247
+Jogador 288;Masculino;01/02/1952;Xadrez;Brasil;3;14;17;0,176470588
+Jogador 289;Masculino;24/10/1982;Jogo da velha;Uruguai;1;92;93;0,010752688
+Jogador 290;Masculino;23/10/1955;Dama;Chile;32;43;75;0,426666667
+Jogador 291;Masculino;10/09/1982;Dama;Paraguai;27;55;82;0,329268293
+Jogador 292;Feminino;01/04/1974;Jogo da velha;Paraguai;26;4;30;0,866666667
+Jogador 293;Masculino;10/08/1974;Jogo da velha;Uruguai;1;1;2;0,5
+Jogador 294;Masculino;11/02/1989;Jogo da velha;Paraguai;19;3;22;0,863636364
+Jogador 295;Feminino;03/11/1960;Jogo da velha;Argentina;10;20;30;0,333333333
+Jogador 296;Masculino;01/02/1998;Jogo da velha;Chile;8;26;34;0,235294118
+Jogador 297;Masculino;01/08/1960;Xadrez;Uruguai;41;4;45;0,911111111
+Jogador 298;Masculino;27/08/1967;Dama;Argentina;7;1;8;0,875
+Jogador 299;Masculino;19/05/1996;Xadrez;Chile;8;89;97;0,082474227
+Jogador 300;Masculino;08/04/1999;Xadrez;Argentina;1;2;3;0,333333333
+Jogador 301;Feminino;03/06/2004;Dama;Brasil;47;33;80;0,5875
+Jogador 302;Masculino;19/04/1950;Jogo da velha;Brasil;21;26;47;0,446808511
+Jogador 303;Masculino;11/02/1961;Xadrez;Chile;36;45;81;0,444444444
+Jogador 304;Masculino;19/11/2003;Jogo da velha;Argentina;26;11;37;0,702702703
+Jogador 305;Feminino;24/04/1976;Xadrez;Argentina;12;10;22;0,545454545
+Jogador 306;Feminino;15/08/2000;Dama;Paraguai;11;16;27;0,407407407
+Jogador 307;Masculino;05/05/1988;Jogo da velha;Uruguai;20;2;22;0,909090909
+Jogador 308;Masculino;22/03/1962;Xadrez;Chile;19;64;83;0,228915663
+Jogador 309;Feminino;25/05/1958;Jogo da velha;Paraguai;9;0;9;1
+Jogador 310;Masculino;16/03/1974;Jogo da velha;Chile;10;20;30;0,333333333
+Jogador 311;Feminino;22/12/1993;Dama;Brasil;2;28;30;0,066666667
+Jogador 312;Feminino;30/05/1960;Dama;Uruguai;25;6;31;0,806451613
+Jogador 313;Masculino;06/01/1997;Xadrez;Paraguai;19;30;49;0,387755102
+Jogador 314;Masculino;12/03/1964;Xadrez;Uruguai;9;79;88;0,102272727
+Jogador 315;Masculino;01/03/1980;Jogo da velha;Argentina;15;1;16;0,9375
+Jogador 316;Masculino;19/09/1976;Xadrez;Uruguai;81;15;96;0,84375
+Jogador 317;Feminino;27/05/1969;Xadrez;Uruguai;22;71;93;0,23655914
+Jogador 318;Masculino;09/02/1985;Xadrez;Uruguai;25;4;29;0,862068966
+Jogador 319;Feminino;29/06/1983;Jogo da velha;Uruguai;10;24;34;0,294117647
+Jogador 320;Feminino;13/09/2001;Xadrez;Uruguai;7;6;13;0,538461538
+Jogador 321;Feminino;02/04/1986;Dama;Brasil;21;17;38;0,552631579
+Jogador 322;Masculino;10/03/1964;Jogo da velha;Uruguai;9;68;77;0,116883117
+Jogador 323;Feminino;23/06/2004;Dama;Chile;19;0;19;1
+Jogador 324;Feminino;23/03/1994;Dama;Brasil;6;1;7;0,857142857
+Jogador 325;Feminino;20/05/1968;Jogo da velha;Argentina;12;59;71;0,169014085
+Jogador 326;Masculino;05/07/1987;Dama;Chile;46;21;67;0,686567164
+Jogador 327;Feminino;12/05/1964;Xadrez;Uruguai;11;44;55;0,2
+Jogador 328;Feminino;17/10/1968;Dama;Uruguai;9;41;50;0,18
+Jogador 329;Masculino;12/08/1987;Jogo da velha;Argentina;30;8;38;0,789473684
+Jogador 330;Masculino;11/09/1994;Jogo da velha;Chile;72;4;76;0,947368421
+Jogador 331;Feminino;03/10/1959;Jogo da velha;Argentina;1;1;2;0,5
+Jogador 332;Feminino;25/03/2000;Jogo da velha;Chile;59;12;71;0,830985915
+Jogador 333;Masculino;25/03/2004;Dama;Argentina;48;2;50;0,96
+Jogador 334;Masculino;13/08/1976;Dama;Chile;50;5;55;0,909090909
+Jogador 335;Masculino;20/06/1992;Jogo da velha;Chile;4;0;4;1
+Jogador 336;Feminino;11/01/1958;Dama;Brasil;6;1;7;0,857142857
+Jogador 337;Masculino;13/06/1996;Dama;Argentina;36;28;64;0,5625
+Jogador 338;Masculino;27/05/1969;Xadrez;Paraguai;23;15;38;0,605263158
+Jogador 339;Feminino;13/02/1965;Dama;Argentina;5;0;5;1
+Jogador 340;Feminino;26/01/1953;Xadrez;Brasil;1;6;7;0,142857143
+Jogador 341;Feminino;16/07/1987;Jogo da velha;Uruguai;3;7;10;0,3
+Jogador 342;Feminino;06/02/2005;Dama;Paraguai;25;3;28;0,892857143
+Jogador 343;Feminino;26/05/2004;Jogo da velha;Uruguai;20;50;70;0,285714286
+Jogador 344;Masculino;19/09/1994;Jogo da velha;Uruguai;53;15;68;0,779411765
+Jogador 345;Masculino;27/11/1979;Jogo da velha;Chile;5;54;59;0,084745763
+Jogador 346;Masculino;21/06/1999;Xadrez;Argentina;79;6;85;0,929411765
+Jogador 347;Masculino;13/02/1989;Xadrez;Paraguai;2;0;2;1
+Jogador 348;Masculino;21/11/1957;Dama;Paraguai;26;72;98;0,265306122
+Jogador 349;Feminino;25/08/2004;Jogo da velha;Uruguai;1;55;56;0,017857143
+Jogador 350;Feminino;31/08/1970;Xadrez;Paraguai;50;21;71;0,704225352
+Jogador 351;Masculino;20/07/1977;Dama;Paraguai;15;22;37;0,405405405
+Jogador 352;Feminino;10/10/1993;Jogo da velha;Uruguai;20;17;37;0,540540541
+Jogador 353;Feminino;15/01/1985;Jogo da velha;Uruguai;1;14;15;0,066666667
+Jogador 354;Feminino;21/07/1974;Jogo da velha;Argentina;32;9;41;0,780487805
+Jogador 355;Masculino;29/11/1983;Xadrez;Chile;20;1;21;0,952380952
+Jogador 356;Feminino;07/02/1964;Xadrez;Paraguai;39;5;44;0,886363636
+Jogador 357;Feminino;11/07/2003;Dama;Argentina;6;5;11;0,545454545
+Jogador 358;Masculino;04/11/1956;Jogo da velha;Paraguai;4;12;16;0,25
+Jogador 359;Masculino;20/04/1995;Jogo da velha;Paraguai;17;30;47;0,361702128
+Jogador 360;Masculino;10/05/1962;Dama;Argentina;3;26;29;0,103448276
+Jogador 361;Masculino;06/03/1956;Xadrez;Uruguai;93;1;94;0,989361702
+Jogador 362;Masculino;18/07/1956;Xadrez;Brasil;45;45;90;0,5
+Jogador 363;Feminino;30/05/1969;Dama;Uruguai;27;21;48;0,5625
+Jogador 364;Masculino;19/04/1978;Jogo da velha;Paraguai;4;3;7;0,571428571
+Jogador 365;Feminino;16/02/2004;Dama;Paraguai;60;18;78;0,769230769
+Jogador 366;Feminino;08/08/1992;Xadrez;Paraguai;32;1;33;0,96969697
+Jogador 367;Feminino;01/08/1980;Xadrez;Paraguai;35;11;46;0,760869565
+Jogador 368;Feminino;31/12/1994;Jogo da velha;Brasil;15;0;15;1
+Jogador 369;Masculino;06/01/1965;Jogo da velha;Uruguai;45;2;47;0,957446809
+Jogador 370;Feminino;11/07/1983;Xadrez;Chile;64;3;67;0,955223881
+Jogador 371;Feminino;01/10/1956;Dama;Brasil;11;37;48;0,229166667
+Jogador 372;Feminino;12/01/1985;Dama;Argentina;22;13;35;0,628571429
+Jogador 373;Feminino;24/06/2000;Xadrez;Paraguai;11;49;60;0,183333333
+Jogador 374;Masculino;28/09/2005;Dama;Paraguai;30;26;56;0,535714286
+Jogador 375;Masculino;27/06/1994;Dama;Paraguai;20;25;45;0,444444444
+Jogador 376;Feminino;11/10/1962;Xadrez;Brasil;29;20;49;0,591836735
+Jogador 377;Feminino;03/06/1995;Jogo da velha;Brasil;57;4;61;0,93442623
+Jogador 378;Masculino;22/02/1967;Dama;Brasil;39;8;47;0,829787234
+Jogador 379;Feminino;13/04/1988;Dama;Uruguai;31;54;85;0,364705882
+Jogador 380;Feminino;17/10/1991;Jogo da velha;Brasil;48;18;66;0,727272727
+Jogador 381;Masculino;24/03/1976;Jogo da velha;Chile;29;6;35;0,828571429
+Jogador 382;Feminino;01/04/1955;Xadrez;Paraguai;1;0;1;1
+Jogador 383;Masculino;08/01/1981;Jogo da velha;Brasil;13;6;19;0,684210526
+Jogador 384;Feminino;27/06/1975;Xadrez;Argentina;6;79;85;0,070588235
+Jogador 385;Masculino;22/04/2004;Jogo da velha;Paraguai;46;26;72;0,638888889
+Jogador 386;Masculino;07/08/1991;Dama;Argentina;18;47;65;0,276923077
+Jogador 387;Masculino;19/03/2001;Dama;Argentina;7;2;9;0,777777778
+Jogador 388;Masculino;27/08/1954;Dama;Argentina;4;3;7;0,571428571
+Jogador 389;Masculino;01/05/1953;Xadrez;Brasil;9;12;21;0,428571429
+Jogador 390;Feminino;18/01/1961;Dama;Brasil;37;50;87;0,425287356
+Jogador 391;Masculino;29/02/1988;Xadrez;Paraguai;12;2;14;0,857142857
+Jogador 392;Feminino;14/08/1977;Xadrez;Chile;1;16;17;0,058823529
+Jogador 393;Feminino;29/04/1969;Xadrez;Argentina;84;1;85;0,988235294
+Jogador 394;Masculino;04/09/1981;Dama;Uruguai;2;6;8;0,25
+Jogador 395;Masculino;02/02/1977;Xadrez;Argentina;31;54;85;0,364705882
+Jogador 396;Masculino;21/09/1986;Dama;Argentina;41;45;86;0,476744186
+Jogador 397;Masculino;27/04/1992;Dama;Argentina;24;7;31;0,774193548
+Jogador 398;Masculino;29/05/1974;Xadrez;Paraguai;8;7;15;0,533333333
+Jogador 399;Masculino;28/01/1959;Xadrez;Chile;73;9;82;0,890243902
+Jogador 400;Feminino;23/05/1970;Xadrez;Chile;6;2;8;0,75
+Jogador 401;Masculino;16/07/1998;Jogo da velha;Brasil;14;24;38;0,368421053
+Jogador 402;Feminino;13/09/1989;Dama;Argentina;60;18;78;0,769230769
+Jogador 403;Masculino;06/09/1999;Jogo da velha;Uruguai;27;11;38;0,710526316
+Jogador 404;Masculino;17/08/1980;Xadrez;Paraguai;19;7;26;0,730769231
+Jogador 405;Feminino;14/07/1981;Xadrez;Uruguai;4;1;5;0,8
+Jogador 406;Masculino;06/02/1965;Xadrez;Brasil;15;5;20;0,75
+Jogador 407;Masculino;02/11/1997;Xadrez;Paraguai;34;16;50;0,68
+Jogador 408;Feminino;23/11/1970;Xadrez;Brasil;54;28;82;0,658536585
+Jogador 409;Masculino;18/12/1991;Jogo da velha;Chile;34;58;92;0,369565217
+Jogador 410;Feminino;10/04/1995;Xadrez;Paraguai;5;19;24;0,208333333
+Jogador 411;Masculino;14/05/1965;Jogo da velha;Paraguai;2;57;59;0,033898305
+Jogador 412;Feminino;21/07/1989;Dama;Argentina;1;0;1;1
+Jogador 413;Masculino;07/02/1950;Xadrez;Chile;45;33;78;0,576923077
+Jogador 414;Feminino;14/09/1975;Xadrez;Uruguai;3;25;28;0,107142857
+Jogador 415;Masculino;05/09/1974;Xadrez;Chile;63;26;89;0,707865169
+Jogador 416;Masculino;13/01/1950;Dama;Argentina;31;0;31;1
+Jogador 417;Masculino;20/04/1968;Dama;Uruguai;1;14;15;0,066666667
+Jogador 418;Feminino;14/11/1986;Xadrez;Paraguai;54;15;69;0,782608696
+Jogador 419;Masculino;26/06/1984;Dama;Argentina;61;1;62;0,983870968
+Jogador 420;Masculino;19/08/1977;Jogo da velha;Brasil;52;22;74;0,702702703
+Jogador 421;Masculino;29/05/1951;Jogo da velha;Argentina;16;70;86;0,186046512
+Jogador 422;Feminino;21/10/2004;Jogo da velha;Chile;14;77;91;0,153846154
+Jogador 423;Masculino;09/05/1988;Jogo da velha;Brasil;66;12;78;0,846153846
+Jogador 424;Masculino;21/08/1998;Dama;Paraguai;47;30;77;0,61038961
+Jogador 425;Masculino;11/10/1960;Xadrez;Argentina;29;12;41;0,707317073
+Jogador 426;Feminino;15/10/1989;Xadrez;Paraguai;15;28;43;0,348837209
+Jogador 427;Masculino;20/03/1956;Xadrez;Brasil;3;2;5;0,6
+Jogador 428;Feminino;24/10/1974;Jogo da velha;Brasil;17;9;26;0,653846154
+Jogador 429;Feminino;19/06/1978;Jogo da velha;Uruguai;6;10;16;0,375
+Jogador 430;Feminino;22/12/1969;Jogo da velha;Uruguai;75;12;87;0,862068966
+Jogador 431;Feminino;23/07/1986;Xadrez;Brasil;3;10;13;0,230769231
+Jogador 432;Masculino;14/03/1997;Jogo da velha;Chile;18;32;50;0,36
+Jogador 433;Masculino;21/12/1965;Jogo da velha;Paraguai;20;33;53;0,377358491
+Jogador 434;Feminino;23/02/1964;Dama;Uruguai;30;35;65;0,461538462
+Jogador 435;Feminino;22/11/1965;Jogo da velha;Paraguai;49;8;57;0,859649123
+Jogador 436;Feminino;06/09/1986;Dama;Brasil;81;14;95;0,852631579
+Jogador 437;Feminino;21/09/1964;Dama;Uruguai;41;51;92;0,445652174
+Jogador 438;Feminino;09/11/1979;Dama;Chile;27;45;72;0,375
+Jogador 439;Feminino;05/06/1957;Xadrez;Brasil;52;42;94;0,553191489
+Jogador 440;Masculino;15/03/1984;Xadrez;Uruguai;3;14;17;0,176470588
+Jogador 441;Feminino;19/03/1959;Xadrez;Brasil;29;22;51;0,568627451
+Jogador 442;Feminino;04/12/1958;Xadrez;Paraguai;4;13;17;0,235294118
+Jogador 443;Feminino;20/11/1981;Jogo da velha;Chile;54;8;62;0,870967742
+Jogador 444;Masculino;16/01/1985;Jogo da velha;Brasil;2;17;19;0,105263158
+Jogador 445;Masculino;02/02/1977;Xadrez;Argentina;43;1;44;0,977272727
+Jogador 446;Masculino;21/06/1977;Xadrez;Uruguai;1;13;14;0,071428571
+Jogador 447;Masculino;15/07/1950;Xadrez;Argentina;8;21;29;0,275862069
+Jogador 448;Feminino;30/03/2000;Xadrez;Uruguai;10;9;19;0,526315789
+Jogador 449;Masculino;30/03/1976;Jogo da velha;Argentina;5;20;25;0,2
+Jogador 450;Feminino;04/10/1991;Xadrez;Paraguai;52;25;77;0,675324675
+Jogador 451;Feminino;01/09/1976;Dama;Brasil;51;29;80;0,6375
+Jogador 452;Masculino;13/10/1998;Dama;Paraguai;14;16;30;0,466666667
+Jogador 453;Feminino;08/04/1956;Xadrez;Chile;42;0;42;1
+Jogador 454;Feminino;21/10/2000;Dama;Paraguai;15;42;57;0,263157895
+Jogador 455;Masculino;30/04/1951;Xadrez;Paraguai;3;32;35;0,085714286
+Jogador 456;Masculino;04/09/1956;Jogo da velha;Argentina;15;3;18;0,833333333
+Jogador 457;Feminino;03/02/1990;Dama;Paraguai;7;68;75;0,093333333
+Jogador 458;Masculino;27/08/1952;Xadrez;Uruguai;60;32;92;0,652173913
+Jogador 459;Masculino;17/06/1999;Jogo da velha;Argentina;23;50;73;0,315068493
+Jogador 460;Feminino;25/03/1955;Xadrez;Argentina;13;48;61;0,213114754
+Jogador 461;Feminino;12/09/1983;Dama;Brasil;11;28;39;0,282051282
+Jogador 462;Masculino;22/02/1952;Xadrez;Argentina;82;10;92;0,891304348
+Jogador 463;Masculino;27/10/1998;Xadrez;Brasil;2;0;2;1
+Jogador 464;Masculino;28/12/1962;Xadrez;Brasil;32;0;32;1
+Jogador 465;Feminino;13/10/1988;Dama;Brasil;19;16;35;0,542857143
+Jogador 466;Feminino;13/01/1998;Xadrez;Argentina;35;14;49;0,714285714
+Jogador 467;Masculino;15/05/1965;Xadrez;Paraguai;61;16;77;0,792207792
+Jogador 468;Masculino;16/02/1995;Jogo da velha;Uruguai;67;3;70;0,957142857
+Jogador 469;Feminino;02/06/1979;Xadrez;Uruguai;2;25;27;0,074074074
+Jogador 470;Feminino;03/08/1960;Dama;Paraguai;1;0;1;1
+Jogador 471;Masculino;07/12/1988;Jogo da velha;Argentina;11;79;90;0,122222222
+Jogador 472;Masculino;11/11/1982;Xadrez;Paraguai;11;5;16;0,6875
+Jogador 473;Masculino;06/10/2001;Jogo da velha;Brasil;23;46;69;0,333333333
+Jogador 474;Feminino;22/10/1977;Xadrez;Uruguai;24;4;28;0,857142857
+Jogador 475;Masculino;01/05/1964;Xadrez;Brasil;5;9;14;0,357142857
+Jogador 476;Feminino;21/04/1969;Jogo da velha;Paraguai;13;6;19;0,684210526
+Jogador 477;Feminino;07/10/2004;Dama;Brasil;3;1;4;0,75
+Jogador 478;Feminino;10/07/1993;Dama;Uruguai;29;30;59;0,491525424
+Jogador 479;Masculino;14/08/1975;Dama;Paraguai;50;43;93;0,537634409
+Jogador 480;Masculino;25/10/1956;Jogo da velha;Brasil;32;9;41;0,780487805
+Jogador 481;Feminino;09/02/2005;Jogo da velha;Argentina;36;1;37;0,972972973
+Jogador 482;Masculino;07/05/1992;Xadrez;Paraguai;13;21;34;0,382352941
+Jogador 483;Masculino;04/07/1976;Xadrez;Paraguai;46;50;96;0,479166667
+Jogador 484;Feminino;19/06/1990;Dama;Chile;62;16;78;0,794871795
+Jogador 485;Feminino;18/04/1999;Jogo da velha;Argentina;4;30;34;0,117647059
+Jogador 486;Masculino;02/03/1999;Jogo da velha;Brasil;1;0;1;1
+Jogador 487;Feminino;26/06/2002;Jogo da velha;Paraguai;49;35;84;0,583333333
+Jogador 488;Feminino;28/10/1953;Xadrez;Paraguai;31;0;31;1
+Jogador 489;Feminino;22/02/1984;Dama;Paraguai;11;43;54;0,203703704
+Jogador 490;Masculino;15/09/2003;Xadrez;Brasil;1;2;3;0,333333333
+Jogador 491;Masculino;27/05/1981;Dama;Argentina;16;1;17;0,941176471
+Jogador 492;Feminino;25/10/1989;Xadrez;Paraguai;1;23;24;0,041666667
+Jogador 493;Feminino;21/09/2001;Jogo da velha;Uruguai;19;6;25;0,76
+Jogador 494;Feminino;07/11/1977;Dama;Uruguai;31;11;42;0,738095238
+Jogador 495;Feminino;03/06/1974;Dama;Chile;52;28;80;0,65
+Jogador 496;Masculino;09/02/1959;Dama;Chile;13;51;64;0,203125
+Jogador 497;Masculino;06/01/1962;Jogo da velha;Argentina;57;23;80;0,7125
+Jogador 498;Masculino;28/09/1958;Jogo da velha;Chile;5;3;8;0,625
+Jogador 499;Feminino;08/10/2004;Jogo da velha;Paraguai;1;86;87;0,011494253
